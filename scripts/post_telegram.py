@@ -28,7 +28,6 @@ CATS = {
     "policy": "政策动向",
     "scoop":  "独家爆料",
 }
-ORDER = ["global", "cn", "policy", "scoop"]
 ARROW = {"利多": "▲", "利空": "▼", "中性": "・"}
 
 
@@ -68,16 +67,9 @@ def render_item(it):
 
 
 def render_header(day):
-    n = len(day.get("items") or [])
     rev = day.get("revision", 1)
     tag = f"  ·  第 {rev} 次更新" if rev and rev > 1 else ""
-    counts = []
-    for c in ORDER:
-        k = sum(1 for i in day["items"] if i.get("cat") == c)
-        if k:
-            counts.append(f"{CATS[c]} {k}")
-    return (f"<b>{esc(day['date'])}</b>  ·  {n} 条{tag}\n"
-            f"<code>{esc('　'.join(counts))}</code>")
+    return f"<b>{esc(day['date'])}</b>{tag}"
 
 
 def send(token, chat_id, text, dry):
@@ -137,7 +129,8 @@ def main():
             print(f"{day.get('date')} 无条目，不推送")
             continue
 
-        items.sort(key=lambda i: ORDER.index(i["cat"]) if i.get("cat") in ORDER else 9)
+        # 按事件时间升序（早→晚）
+        items.sort(key=lambda i: i.get("time") or "")
 
         send(token, chat_id, render_header(day), dry)
         for it in items:
