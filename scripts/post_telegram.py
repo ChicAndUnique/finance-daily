@@ -28,7 +28,12 @@ CATS = {
     "policy": "政策动向",
     "scoop":  "独家爆料",
 }
-ARROW = {"利多": "▲", "利空": "▼", "中性": "・"}
+# Telegram HTML 不支持颜色，用带色 emoji；中性加粗
+ARROW = {
+    "利多": "🟢▲",
+    "利空": "🔴▼",
+    "中性": "<b>・</b>",
+}
 
 
 def esc(s):
@@ -57,7 +62,7 @@ def render_item(it):
     if assets:
         lines.append("")
         lines.append("  ".join(
-            f"{ARROW.get(a.get('dir'), '・')}{esc(a.get('name'))}" for a in assets))
+            f"{ARROW.get(a.get('dir'), '<b>・</b>')}{esc(a.get('name'))}" for a in assets))
 
     foot = [x for x in (it.get("time"), it.get("source")) if x]
     if foot:
