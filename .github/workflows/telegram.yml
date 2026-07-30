@@ -1,0 +1,47 @@
+name: post-to-telegram
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/data/**/*.json'
+  workflow_dispatch:
+    inputs:
+      file:
+        description: '手动补发指定文件，例如 docs/data/2026/07/29.json'
+        required: true
+
+concurrency:
+  group: telegram-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: 找出本次新增或修改的当日文件
+        id: changed
+        run: |
+          if [ -n "${{ inputs.file }}" ]; then
+            echo "files=${{ inputs.file }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          BASE="${{ github.event.before }}"
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ]; then
+            BASE="HEAD^"
+          fi
+          FILES=$(git diff --name-only --diff-filter=AM "$BASE" "${{ github.sha }}" \
+                  -- 'docs/data/[0-9][0-9][0-9][0-9]/[0-9][0-9]/[0-9][0-9].json' | tr '\n' ' ')
+          echo "files=$FILES" >> "$GITHUB_OUTPUT"
+          echo "命中: ${FILES:-无}"
+
+      - name: 推送到频道
+        if: steps.changed.outputs.files != ''
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python3 scripts/post_telegram.py ${{ steps.changed.outputs.files }}
