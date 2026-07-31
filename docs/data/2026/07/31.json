@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31 09:00",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|Q2 GDP初值|1.5%",
+      "title": "美国二季度实际GDP年化季率初值增长1.5%，低于预期",
+      "time": "2026-07-30 20:30",
+      "source": "美国经济分析局",
+      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-2nd-quarter-2026",
+      "facts": "实际GDP年化季率增长1.5%，低于市场预期约1.8%-2.1%，前值2.1%。增长由消费支出、投资和出口推动，政府支出下降及进口增加部分抵消。",
+      "why": "增速放缓低于预期，显示经济动能减弱，可能强化美联储维持利率或后续观望的预期。",
+      "assets": [{"name": "美股", "dir": "利多"}, {"name": "美债", "dir": "利多"}, {"name": "美元", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
