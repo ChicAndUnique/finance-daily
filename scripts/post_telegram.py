@@ -70,12 +70,6 @@ def render_item(it):
     return "\n".join(lines)[:LIMIT]
 
 
-def render_header(day):
-    rev = day.get("revision", 1)
-    tag = f"  ·  第 {rev} 次更新" if rev and rev > 1 else ""
-    return f"<b>{esc(day['date'])}</b>{tag}"
-
-
 def send(token, chat_id, text, dry):
     if dry:
         print("─" * 56)
@@ -136,7 +130,6 @@ def main():
         # 按事件时间升序（早→晚）
         items.sort(key=lambda i: i.get("time") or "")
 
-        send(token, chat_id, render_header(day), dry)
         for it in items:
             time.sleep(0 if dry else GAP)
             send(token, chat_id, render_item(it), dry)
