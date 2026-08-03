@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03 09:01",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "cn",
+      "key": "央行|继续适度宽松|-",
+      "title": "央行下半年工作会议要求继续实施适度宽松货币政策并及时调整政策工具",
+      "time": "2026-08-02 16:46",
+      "source": "新华社",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-central-bank-pledges-timely-policy-tool-adjustment-2026-08-02/",
+      "facts": "中国人民银行8月1日召开下半年工作会议，8月2日发布纪要。会议强调继续实施适度宽松的货币政策，综合运用多种工具保持流动性充裕，及时调整政策工具，引导社会融资和货币供应量增速与经济增长和物价预期目标相匹配。支持地方融资平台化债，推进金融市场高水平开放。",
+      "why": "此前政治局会议已要求增强货币政策灵活性前瞻性，此纪要进一步明确工具调整节奏与结构支持重点，强化市场对后续宽松操作的预期。",
+      "assets": [{"name": "人民币利率", "dir": "利空"}, {"name": "A股", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "日本|联合干预日元|-",
+      "title": "日美联合在外汇市场买入日元，为2011年以来首次联合干预",
+      "time": "2026-08-02 09:12",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/asia-pacific/japan-announce-tokyo-washington-took-joint-action-yen-sources-say-2026-08-02/",
+      "facts": "日本政府官员透露，日本与美国于上周五联合干预外汇市场买入日元。这是自2011年以来两国首次联合行动。日元此前跌至约40年低点，日本财政部数据暗示日本单日干预规模或达约590亿美元。美国财政部亦通过纽约联储执行相关操作。",
+      "why": "此前市场预期日本单独干预，美国直接参与显著提高干预可信度，打破日元单边贬值预期。",
+      "assets": [{"name": "日元", "dir": "利多"}, {"name": "美元/日元", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "OPEC+|上调产量|18.8万桶/日",
+      "title": "OPEC+同意9月增产约18.8万桶/日，完成2023年自愿减产回撤",
+      "time": "2026-08-02 15:04",
+      "source": "路透社",
+      "url": "https://www.reuters.com/business/energy/opec-has-agreement-principle-september-quota-increase-pause-thereafter-source-2026-08-02/",
+      "facts": "OPEC+核心七国8月2日同意自9月起将产量配额提高约18.8万桶/日。此举完成2023年1.65百万桶/日自愿减产的分阶段回撤。声明未提及四季度政策，下一次会议定于9月6日。",
+      "why": "市场此前预期增产，但实际供应因地缘冲突受限，此次确认完成回撤可能加剧对供应增加的定价。",
+      "assets": [{"name": "原油", "dir": "利空"}, {"name": "能源股", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
