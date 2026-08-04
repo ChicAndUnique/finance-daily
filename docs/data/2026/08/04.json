@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04 09:05",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|ISM制造业PMI|55.6",
+      "title": "美国7月ISM制造业PMI升至55.6，为2022年5月以来最高",
+      "time": "2026-08-03 22:00",
+      "source": "ISM",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-6-july-2026-ism-manufacturing-pmi-report-302840669.html",
+      "facts": "美国7月ISM制造业PMI录得55.6，高于预期约53.9至54.0，前值53.3。新订单、生产、就业分项均扩张，价格分项仍处高位。",
+      "why": "显著高于市场预期并创近四年新高，强化经济韧性叙事，可能推升美联储维持或加息预期。",
+      "assets": [{"name": "美债收益率", "dir": "利多"}, {"name": "美元", "dir": "利多"}, {"name": "黄金", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
