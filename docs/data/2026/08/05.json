@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05 09:30",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "scoop",
+      "key": "美国|禁止中国光模块|-",
+      "title": "特朗普政府起草禁止进口中国新型数据中心光收发器",
+      "time": "2026-08-04 18:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/trump-administration-drafting-ban-chinese-data-center-devices-sources-say-2026-08-04/",
+      "facts": "四名知情人士向路透社透露，FCC正在起草措施，禁止进口中国新型光收发器。官员希望年内公布并生效。中国中际旭创等企业市占领先。",
+      "why": "此前贸易休战期间相关限制被搁置，此举若落地将直接冲击中国在AI数据中心关键件的主导地位，并推高美国光模块供应商估值。",
+      "assets": [{"name": "美股光模块股", "dir": "利多"}, {"name": "中际旭创", "dir": "利空"}, {"name": "AI数据中心建设成本", "dir": "利空"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "美国|设定多晶硅价格底线|-",
+      "title": "特朗普政府拟对多晶硅设定价格底线并加征关税",
+      "time": "2026-08-04 21:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-weighs-polysilicon-price-floor-tariffs-counter-china-solar-chips-2026-08-04/",
+      "facts": "四名知情人士称，政府正准备对多晶硅及相关产品设定进口价格底线并加征关税，预计本月晚些时候决定。目标是保护美国本土生产商并限制中国在太阳能与芯片供应链的优势。",
+      "why": "多晶硅是太阳能板与半导体关键材料，此举将推高下游成本，同时利好美国本土多晶硅厂商，加剧中美在AI与能源领域的竞争。",
+      "assets": [{"name": "美国多晶硅股", "dir": "利多"}, {"name": "中国太阳能产业链", "dir": "利空"}, {"name": "半导体成本", "dir": "利空"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    }
+  ]
+}
