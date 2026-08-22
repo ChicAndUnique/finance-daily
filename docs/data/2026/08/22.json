@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22 09:30",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|S&P综合PMI初值|56.0",
+      "title": "美国8月S&P全球综合PMI初值升至56.0创逾四年新高",
+      "time": "2026-08-21 21:45",
+      "source": "S&P Global",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/08/us-flash-pmi-signals-welcome-mix-of-hotter-output-growth-cooler-inflation",
+      "facts": "综合产出指数从7月54.5升至56.0，服务业升至56.8，制造业降至53.2。就业增长为2025年初以来最快，商业预期达九个月高点。",
+      "why": "显著高于预期54.0，显示三季度年化增长接近3%，价格压力缓和但能源成本仍高，暗示政策制定者偏鹰。",
+      "assets": [{"name":"美股","dir":"利多"},{"name":"美债","dir":"利空"},{"name":"美元","dir":"利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "欧盟|S&P综合PMI初值|52.1",
+      "title": "欧元区8月S&P综合PMI初值升至52.1为近九个月高点",
+      "time": "2026-08-21 16:00",
+      "source": "S&P Global / Reuters",
+      "url": "https://www.reuters.com/world/europe/euro-zone-business-activity-growth-hits-highest-since-november-pmi-shows-2026-08-21/",
+      "facts": "综合指数从52.0升至52.1，制造业升至52.8创四年半新高，服务业51.7。新订单增长为40个月最快，出口首次扩张，就业转正。",
+      "why": "高于预期，显示欧元区私人部门韧性增强，制造业主导复苏，支持增长预期。",
+      "assets": [{"name":"欧元","dir":"利多"},{"name":"欧股","dir":"利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
