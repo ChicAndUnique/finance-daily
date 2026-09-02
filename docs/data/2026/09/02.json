@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02 09:20",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|打击伊朗推升油价|$90.22",
+      "title": "美伊再交火后WTI收于90.22美元、布伦特收于94.65美元，双双创约五周新高",
+      "time": "2026-09-02 04:00",
+      "source": "路透",
+      "url": "https://www.reuters.com/business/energy/oil-prices-rise-latest-fighting-resurrects-middle-east-supply-disruption-risks-2026-09-01/",
+      "facts": "9月1日美国中部时间12时起，美军打击伊朗革命卫队目标。布伦特期货上涨4.16美元或4.6%收于94.65美元/桶，WTI上涨4.46美元或5.2%收于90.22美元/桶，分别为7月24日和7月23日以来最高收盘。",
+      "why": "霍尔木兹海峡通航风险重新定价，能源通胀路径上修，抬升主要央行9月加息概率并压低风险资产。",
+      "assets": [{"name": "WTI原油", "dir": "利多"}, {"name": "布伦特原油", "dir": "利多"}, {"name": "美股", "dir": "利空"}, {"name": "美债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "日本|10年国债收益率|3.0%",
+      "title": "日本10年期国债收益率升至3.0%，为1996年以来首次",
+      "time": "2026-09-01 14:00",
+      "source": "日本财务省",
+      "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260901.htm",
+      "facts": "9月1日10年期国债招标最低中标价格对应收益率3.011%，加权平均收益率2.995%。二级市场10年期收益率盘中触及3.0%，为1996年9月以来首次。",
+      "why": "全球债市抛售叠加日本财政与加息预期，突破政府预算假设的3%长期利率，抬升日本偿债成本并外溢至全球长端利率。",
+      "assets": [{"name": "日本国债", "dir": "利空"}, {"name": "日元", "dir": "中性"}, {"name": "全球长债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "美国|促成G20反非市场声明|-",
+      "title": "除中国外的G20财长同意消除加剧失衡的非市场政策",
+      "time": "2026-09-02 07:02",
+      "source": "美国财政部",
+      "url": "https://content.govdelivery.com/accounts/USTREAS/bulletins/427f649",
+      "facts": "阿什维尔G20财长和央行行长会后由美方发布主席声明。除中国外的与会方同意各国应采取措施消除加剧失衡的非市场政策与做法，特别是持续外部顺差国应消除抑制国内消费、过度依赖出口的扭曲。中国反对声明部分段落，未能形成全体共识公报。",
+      "why": "把对华产能与顺差问题从美方单边倡议升格为G20十九国书面共识，提高后续关税、产业补贴对等措施的多边借口。",
+      "assets": [{"name": "中国出口链", "dir": "利空"}, {"name": "人民币", "dir": "利空"}, {"name": "A股出口板块", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
