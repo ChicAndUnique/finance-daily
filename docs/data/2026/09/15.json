@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15 09:21",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "沙特|关闭东西向油管|400万桶/日",
+      "title": "沙特东西向原油管道因袭击停运修复或需数周",
+      "time": "2026-09-15 01:53",
+      "source": "美联社/CNN",
+      "url": "https://www.cnn.com/2026/09/14/economy/saudi-east-west-pipeline-shut-oil-market",
+      "facts": "沙特已关闭绕开霍尔木兹海峡的东西向原油管道。两名地区官员称主要泵站受损，全面修复可能需要数周。该管线近期日均输送约260万至400万桶。",
+      "why": "市场此前将东西向管线视为霍尔木兹受阻后的主要绕行通道。停运数周意味着全球供应缺口可能再扩大约4%。",
+      "assets": [{"name": "布伦特原油", "dir": "利多"}, {"name": "WTI原油", "dir": "利多"}, {"name": "美债", "dir": "利空"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美国|十年期国债触及|5.0%",
+      "title": "美国十年期国债收益率盘中触及5.0%",
+      "time": "2026-09-15 01:01",
+      "source": "华尔街日报",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026",
+      "facts": "美国十年期国债收益率盘中升至5.012%，为2007年以来第二次站上5%。随后回落至约4.96%。油价上涨与本周美联储议息预期推动抛售。",
+      "why": "5%关口被市场视为长期利率的心理与估值阈值。突破强化了对周三加息及金融条件收紧的定价。",
+      "assets": [{"name": "美债", "dir": "利空"}, {"name": "美股", "dir": "利空"}, {"name": "美元", "dir": "利多"}],
+      "confidence": "付费墙",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "原油|升破百美元|$108.83",
+      "title": "布伦特原油升至108.83美元并一度接近110美元",
+      "time": "2026-09-14 17:24",
+      "source": "路透社",
+      "url": "https://live.euronext.com/en/financial-news/world-shares-slide-oil-prices-jump-and-bond-yields-climb",
+      "facts": "布伦特原油期货上涨约4%至108.83美元/桶，盘中接近110美元。WTI同步走强。全球股市下跌，费城半导体指数跌约5%。",
+      "why": "油价在上周已升破100美元后继续上行。供应中断预期叠加加息定价，压低风险资产。",
+      "assets": [{"name": "布伦特原油", "dir": "利多"}, {"name": "美股", "dir": "利空"}, {"name": "黄金", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": "进展 · 承接 2026-09-11（原值 $102.48 → 现值 $108.83）"
+    }
+  ]
+}
