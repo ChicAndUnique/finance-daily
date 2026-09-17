@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17 09:13",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美联储|加息|25bp",
+      "title": "美联储将联邦基金利率上调25bp至3.75%-4.00%",
+      "time": "2026-09-17 02:00",
+      "source": "美联储",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "facts": "FOMC以12-0表决将联邦基金利率目标区间上调25bp至3.75%至4%。壹为2023年7月以来首次加息。点阵显示多数委员预计年内还有至少一次加息。",
+      "why": "结束近三年的降息周期并明确通胀仍偏高。市场对年内再加息的定价被拉高。",
+      "assets": [{"name": "美元", "dir": "利多"}, {"name": "美股", "dir": "利空"}, {"name": "美债", "dir": "利空"}, {"name": "黄金", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美国|公布8月零售销售|1.2%",
+      "title": "美国8月零售销售环比增1.2%高于0.8%预期",
+      "time": "2026-09-16 20:30",
+      "source": "美国普查局",
+      "url": "https://www.census.gov/retail/sales.html",
+      "facts": "经季节调整的零售和餐饮服务销售为7739亿美元，环比升1.2%，同比升6.0%。7月环比从-0.6%修订至-0.5%。核心零售销售环比升1.4%，预期为0.4%。",
+      "why": "消费弹性明显强于预期，支撑美联储把交焦点放在通胀。破碎了美国消费已经明显走弱的判断。",
+      "assets": [{"name": "美股", "dir": "利多"}, {"name": "美元", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|淡化贷款数量目标|-",
+      "title": "潘功胜在《求是》称贷款降速提质或成为新常态",
+      "time": "2026-09-16 10:01",
+      "source": "求是/路透",
+      "url": "https://www.reuters.com/world/china/chinas-slower-loan-growth-is-new-normal-central-bank-governor-says-2026-09-16/",
+      "facts": "潘功胜写道贷款降速提质或成为宏观运行新常态之一，维持过往信贷增速困难且没有必要。文章提出淡化对贷款等数量目标关注，更注重价格型调控。房地产贷款余额自2025年至2026年上半年累计下降超过2万亿元。",
+      "why": "官方确认不再追求贷款高增速，降低近期降准降息的市场压力。对贷款弱增长的解读从病理转为结构迁移。",
+      "assets": [{"name": "人民币", "dir": "中性"}, {"name": "中国债券", "dir": "利多"}, {"name": "A股", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "美国|碰商对等降税|300亿美元",
+      "title": "布隆伯格称中美正讨论对能源农产品等降税以延续休战",
+      "time": "2026-09-16 20:53",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/us-china-discuss-cutting-some-tariffs-as-leaders-prepare-to-meet",
+      "facts": "报道称两国正商讨对美国能源和农产品等降低关税，以配合次周元首会暗。谈判基于先前约300亿美元规模的对等降税框架。消息尚未经双方官方公告确认。",
+      "why": "若落实将延长关税休战并降低部分跨境商品成本。税率路径仍有变数，需以会暗成果为准。",
+      "assets": [{"name": "人民币", "dir": "利多"}, {"name": "A股", "dir": "利多"}, {"name": "美豆类", "dir": "利多"}],
+      "confidence": "付费墙",
+      "progress": null
+    }
+  ]
+}
