@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18 09:24",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "英国|维持利率|3.75%",
+      "title": "英格兰银行以6比3维持利率3.75%并暂停主动出售国债",
+      "time": "2026-09-17 19:00",
+      "source": "英格兰银行",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "facts": "货币政策委员会以6票维持、3票主张加息至4%的结果将银行利率维持在3.75%。委员会将通胀峰值预测上修至2027年初略高于4%。会议同时决定未来六个月暂停主动出售金边债券。",
+      "why": "此前市场对加息与按兵不动分歧接近，暂停国债主动减持超出多数预期。贝利警告中东冲突若持续则可能需要加息。",
+      "assets": [{"name": "英国国债", "dir": "利多"}, {"name": "英镑", "dir": "中性"}, {"name": "布伦特原油", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "美国|推迟过剩产能关税|7.5%",
+      "title": "知情人士称美方将产能过剩关税宣布推迟至习特会后",
+      "time": "2026-09-18 02:03",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/us-said-to-delay-excess-capacity-tariffs-until-after-xi-summit",
+      "facts": "知情人士称，美方拟就贸易伙伴过剩产能加征的新关税至少推迟到下周习近平与特朗普会晤之后宣布。彭博此前报道该调查报告原计划在峰会前公布并建议对华加征7.5%关税。最终税率是否调整尚不确定。",
+      "why": "打破了峰会前落地7.5%产能过剩关税、将对华税率抬回约20%的时间表预期。",
+      "assets": [{"name": "人民币", "dir": "利多"}, {"name": "A股出口链", "dir": "利多"}, {"name": "美股进口相关板块", "dir": "中性"}],
+      "confidence": "未经官方证实",
+      "progress": "进展 · 承接 2026-08-25（原值 7.5% → 现值 推迟宣布）"
+    },
+    {
+      "cat": "policy",
+      "key": "美国|豁免代币化股票|5年",
+      "title": "美国证交会发布五年创新豁免允许代币化NMS股票链上交易",
+      "time": "2026-09-18 09:02",
+      "source": "美国证券交易委员会",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "facts": "SEC对代币化证券交易场所给予最长五年的有条件豁免，使其可在许可制自动做市池中交易代币化NMS股票。流动性提供商同步获得交易商注册豁免。发行人可选择退出其股票被代币化交易。",
+      "why": "在国会相关立法受阻后由监管机构直接开通道，改变代币化美股无法合规交易的预期。",
+      "assets": [{"name": "加密资产", "dir": "利多"}, {"name": "美股券商与交易所", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
