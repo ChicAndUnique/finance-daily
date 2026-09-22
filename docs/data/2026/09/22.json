@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22 09:09",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美联储|反对看穿供给冲击|-",
+      "title": "古尔斯比称持久供给冲击不宜看穿，必要时需加息压需求",
+      "time": "2026-09-21 18:30",
+      "source": "芝加哥联储",
+      "url": "https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif",
+      "facts": "芝加哥联储主席古尔斯比9月21日在伦敦OMFIF活动发表讲话。他称战争、关税、油价等供给冲击已成常态，对持久冲击央行不应简单看穿。若需求过热或AI投资溢出推高总产出，加息路径没有含糊。",
+      "why": "在9月加息之后进一步收紧了“一次性冲击可忽略”的政策叙事。抬高市场对10月或12月再加息的定价。",
+      "assets": [{"name": "美债收益率", "dir": "利多"}, {"name": "美元", "dir": "利多"}, {"name": "美股", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "原油|回落至95美元|$95.78",
+      "title": "WTI原油9月21日结算95.78美元，单日下跌约4.5%",
+      "time": "2026-09-21 22:00",
+      "source": "Reuters",
+      "url": "https://www.marketscreener.com/news/ai-stocks-lift-wall-st-as-oil-falls-treasury-yields-decline-ce785adbdf8bf521",
+      "facts": "路透报道，WTI原油9月21日下跌逾3%并创11日低点，新华社援引结算价报95.78美元，跌4.52美元或4.51%。同期美国十年期国债收益率回落至约4.956%。市场将回落归因于联大期间中东谈判进展预期。",
+      "why": "打断上周油价站上100美元、十年期美债触及5%的通胀交易。短线缓解加息定价压力。",
+      "assets": [{"name": "WTI原油", "dir": "利空"}, {"name": "布伦特原油", "dir": "利空"}, {"name": "美股", "dir": "利多"}, {"name": "美国十年期国债", "dir": "利多"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "美国|推进非敏感品降税|300亿美元",
+      "title": "贝森特称美中拟落实各约300亿美元非敏感商品降税并设立AI对话",
+      "time": "2026-09-21 11:00",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-says-china-talks-yield-progress-on-tariff-carve-outs-ai-dialogue",
+      "facts": "美财长贝森特与何立峰9月20日在纽约会谈后称讨论成功。美方称双方同意将非敏感商品从后续关税行动中单列，并拟设立美中AI对话及国家安全级事件通报机制。贸易代表格里尔称候选品类包括中方消费品与低技术产品、美方能源农产品和医疗器械。",
+      "why": "将5月达成的各约300亿美元对等降税框架推进到可操作阶段。缓和特朗普与习近平9月24日会晤前的关税预期。",
+      "assets": [{"name": "人民币汇率", "dir": "利多"}, {"name": "A股", "dir": "利多"}, {"name": "美农产品", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": "进展 · 承接 2026-09-17（原值 碰商 → 现值 推进落实）"
+    }
+  ]
+}
