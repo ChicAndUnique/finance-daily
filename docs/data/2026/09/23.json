@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23 09:30",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "沙特|重启东西向油管|400万桶/日",
+      "title": "沙特重启东西向油管并准备恢复延布装船",
+      "time": "2026-09-22 18:08",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/saudi-arabia-restarts-east-west-oil-pipeline-resume-exports-yanbu-sources-say-2026-09-22/",
+      "facts": "三名消息人士称沙特已重启东西向油管，并可于周二晚些时候恢复延布港装船。该管线于9月13日因无人机袭击停运。重启初期输送量低于正常，一方消息称阿美目标恢复至约400万桶/日，完全恢复可能需要数周。",
+      "why": "该管线曾用于绕开霍尔木兹海峡约4%的全球供给。重启信号直接下压布伦特价格。",
+      "assets": [{"name": "布伦特原油", "dir": "利空"}, {"name": "WTI原油", "dir": "利空"}, {"name": "美股", "dir": "利多"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美国|接触伊朗谈霍尔木兹|-",
+      "title": "美伊在联大侧会谈伊朗提出重开霍尔木兹条件",
+      "time": "2026-09-23 03:45",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-submits-conditions-reopening-hormuz-us-representative-state-media-says-2026-09-22/",
+      "facts": "伊朗官媒称外长阿拉奇与美特使维特科夫在联大侧会会面，并向美方转达重开霍尔木兹海峡条件。条件包括立即解除海上封锁、释放被冻结资产以及结束各“抵抗”战线战事。特朗普称美方与伊朗代表团举行了约3小时会谈。",
+      "why": "海峡重开若落实将改变能源供给期望。目前条件未获美方官方确认。",
+      "assets": [{"name": "布伦特原油", "dir": "利空"}, {"name": "黄金", "dir": "利空"}, {"name": "美股", "dir": "利多"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "原油|布伦特收于|$99.25",
+      "title": "布伦特结算于99.25美元并曾短时跌破风",
+      "time": "2026-09-23 04:33",
+      "source": "Associated Press",
+      "url": "https://www.bostonherald.com/2026/09/22/wall-street-oil-prices-bond-yields/",
+      "facts": "布伦特结算于每桶99.25美元，跌幅1.1%。盘中曾短时跌破98美元。纳斯达克再创纪录高，标普500几乎平盘。",
+      "why": "油价连跌缓解了上周能源冲击带来的加息预期。但仍远高于战前约72美元。",
+      "assets": [{"name": "布伦特原油", "dir": "利空"}, {"name": "美股", "dir": "利多"}, {"name": "美债", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": "进展 · 承接 2026-09-22（原值 $95.78 → 现值 $99.25）"
+    }
+  ]
+}
