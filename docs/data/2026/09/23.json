@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "generated_at": "2026-09-23 09:30",
-  "revision": 1,
+  "revision": 2,
   "items": [
     {
       "cat": "global",
@@ -32,7 +32,7 @@
     {
       "cat": "global",
       "key": "原油|布伦特收于|$99.25",
-      "title": "布伦特结算于99.25美元并曾短时跌破风",
+      "title": "布伦特结算于99.25美元盘中曾跌破98美元",
       "time": "2026-09-23 04:33",
       "source": "Associated Press",
       "url": "https://www.bostonherald.com/2026/09/22/wall-street-oil-prices-bond-yields/",
