@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24 09:03",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|公布9月综合PMI初值|58.4",
+      "title": "美国9月S&P综合PMI初值升至58.4，为2021年7月以来最快",
+      "time": "2026-09-23 21:45",
+      "source": "S&P Global / CME Econoday",
+      "url": "https://www.cmegroup.com/education/events/econoday/671311",
+      "facts": "9月美国综合PMI初值报58.4，前值56.0。服务业58.7高于预期56.0，制造业57.0高于预期53.6。投入价格升至2022年10月以来最高。",
+      "why": "增速与价格同步上行，打破市场对需求放缓将限制加息的预期。",
+      "assets": [{"name": "美债", "dir": "利空"}, {"name": "美元", "dir": "利多"}, {"name": "美股", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美国|十年期国债触及|5.10%",
+      "title": "美国10年期国债收益率升至约5.10%，为2007年以来最高",
+      "time": "2026-09-24 04:39",
+      "source": "Reuters",
+      "url": "https://www.livemint.com/market/us-stocks-fall-as-10-year-treasury-yield-hits-highest-since-2007-11790195978698.html",
+      "facts": "10年期美债收益率一度升至5.106%。2年期升至约4.86%。10年期多数券种收益率站上5%。",
+      "why": "PMI超预期叠加油价反弹，强化10月再加息定价。",
+      "assets": [{"name": "美债", "dir": "利空"}, {"name": "美股", "dir": "利空"}, {"name": "黄金", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": "进展 · 承接 2026-09-15（原值 5.0% → 现值 5.10%）"
+    },
+    {
+      "cat": "global",
+      "key": "原油|反弹站上百美元|$101",
+      "title": "布伦特原油结束五日连跌并重新站上100美元",
+      "time": "2026-09-23 23:12",
+      "source": "Bloomberg / Reuters",
+      "url": "https://www.swissinfo.ch/eng/stocks%2c-bonds-slip-as-oil-jump-fuels-fed-hike-bets%3a-markets-wrap/92103124",
+      "facts": "布伦特一度升破101美元，WTI升至约91至93美元。伊朗总统在联合国称不会在受制裁情况下放开霍尔木兹海峡通行。",
+      "why": "打破连续五日下跌所隐含的供应缓和交易。",
+      "assets": [{"name": "原油", "dir": "利多"}, {"name": "美债", "dir": "利空"}, {"name": "能源股", "dir": "利多"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|加量续作MLF|2000亿元",
+      "title": "央行公告9月24日开展8000亿元一年期MLF，净投放2000亿元",
+      "time": "2026-09-23 17:25",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125437/125446/125873/2026092317255275723/index.html",
+      "facts": "9月24日将开展8000亿元1年期MLF，本月到期6000亿元。9月中期流动性合计净投放2000亿元。",
+      "why": "扭转8月MLF净回笼1000亿元的操作方向，对冲政府债券供给。",
+      "assets": [{"name": "利率债", "dir": "利多"}, {"name": "银行间流动性", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|设定隔夜上限|10000亿元",
+      "title": "央行将于9月28日至10月8日开展隔夜逆回购，每日上限1万亿元",
+      "time": "2026-09-23 17:03",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125469/2026092314094223341/index.html",
+      "facts": "公开市场业务公告［2026］第9号称，9月28日至10月8日开展隔夜逆回购，固定利率、数量招标，每日操作量不超过10000亿元。",
+      "why": "跨季与国庆假期资金需求上升，操作上限高于此前6000亿元安排。",
+      "assets": [{"name": "银行间流动性", "dir": "利多"}, {"name": "短期利率", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": "进展 · 承接 2026-08-25（原值 6000亿元 → 现值 10000亿元）"
+    },
+    {
+      "cat": "policy",
+      "key": "美国|延长对华贸易休战|1月10日",
+      "title": "美财长贝森特称美中将釜山贸易休战延至2027年1月10日",
+      "time": "2026-09-24 06:20",
+      "source": "NBC News / Treasury",
+      "url": "https://www.nbcnews.com/business/economy/us-china-extend-trade-truce-trump-rcna599525",
+      "facts": "贝森特在习近平抵达华盛顿后表示，原定11月10日到期的釜山协议将延至1月10日。该表态出现在与何立峰会晤之后。",
+      "why": "降低11月关税再升级的近端风险，但更大协议仍待峰会确认。",
+      "assets": [{"name": "人民币", "dir": "利多"}, {"name": "风险资产", "dir": "利多"}, {"name": "出口相关板块", "dir": "利多"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    }
+  ]
+}
