@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28 09:10",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|拒绝重开霍尔木兹|-",
+      "title": "特朗普拒绝伊朗提出的重开霍尔木兹海峡停火方案",
+      "time": "2026-09-26 22:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-insists-diplomatic-solution-after-trump-rejects-peace-plan-2026-09-26/",
+      "facts": "特朗普9月26日表示已拒绝伊朗经由仲裁提出的7日内重开霍尔木兹并重启核谈判方案。伊朗外长阿拉奇称9月27日称重开海峡仍须满足其条件。特朗普对Axios表示预计本周仍有间接谈判。",
+      "why": "打破了市场对联合国大会期间谈判可迅速重开海峡的定价。供应中断风险重新被价。",
+      "assets": [{"name": "布伦特原油", "dir": "利多"}, {"name": "WTI原油", "dir": "利多"}, {"name": "美国国债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "原油|反弹站上百美元|$106",
+      "title": "布伦特原油在特朗普拒绝伊朗方案后反弹至106.14美元",
+      "time": "2026-09-28 06:02",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-rebounds-after-trump-rejects-iran-peace-deal-2026-09-27/",
+      "facts": "亚洲交易时段布伦特期货上涨1.82美元或者1.74%至106.14美元/桶。WTI上涨1.14美元或者1.23%至93.55美元/桶。Reuters将反弹归因为美国拒绝伊朗重开霍尔木兹的停火提议。",
+      "why": "周五收盘为交易海峡重开希望而回落的油价被打断。供应风险溢价重新贴回。",
+      "assets": [{"name": "布伦特原油", "dir": "利多"}, {"name": "WTI原油", "dir": "利多"}],
+      "confidence": "通讯社独家",
+      "progress": "进展 · 承接 2026-09-24（原值 $101 → 现值 $106）"
+    }
+  ]
+}
