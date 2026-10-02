@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "generated_at": "2026-10-02 09:05",
-  "revision": 1,
+  "revision": 2,
   "items": [
     {
       "cat": "global",
@@ -75,7 +75,7 @@
       "time": "2026-10-01 12:57",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/chinese-refiners-suspend-oct-fuel-exports-petrochina-cancels-cargoes-sources-say-2026-10-01/",
-      "facts": "四名知情人士告诉路透，中国炼厂已暂停10月成品油出口，香港和澳门除外未获出口放行。三名消息人士称中石油取消6月部分汽油和航煤计划。国家发改委在假期中未回应路透置评。未经官方证实。",
+      "facts": "四名知情人士告诉路透，中国炼厂已暂停10月成品油出口，香港和澳门除外未获出口放行。三名消息人士称中石油取消10月部分汽油和航煤计划。国家发改委在假期中未回应路透置评。未经官方证实。",
       "why": "市场原预期中国成品油出口按月份管理并可能继续外运。若暂停属实，将收紧已受中东与俄罗斯供应影响的柴油市场。",
       "assets": [{"name": "亚洲柴油裂解价差", "dir": "利多"}, {"name": "布伦特原油", "dir": "利多"}],
       "confidence": "未经官方证实",
