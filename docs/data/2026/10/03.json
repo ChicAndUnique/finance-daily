@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03 09:05",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|公布9月非农|2.9万",
+      "title": "美国9月非农就业增加2.9万人，低于路透调查预期的9万人",
+      "time": "2026-10-02 20:38",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-job-growth-slows-sharply-september-unemployment-rate-rises-42-2026-10-02/",
+      "facts": "美国劳工部称，9月非农就业增加2.9万人，8月由先前公布的16.2万下修至13.3万，7月修正为减少1万。7月与8月合计少增6万人。失业率由4.1%升至4.2%，平均时薪同比由3.1%降至3.0%。",
+      "why": "增幅不及调查预期的三分之一，打破劳动力市场仍强、足以支撑美联储10月连续加息的预期。路透称，该报告几乎把10月27日至28日会议再次加息移出桌面。",
+      "assets": [
+        {"name": "标普500", "dir": "利多"},
+        {"name": "美元指数", "dir": "利空"},
+        {"name": "美国两年期国债", "dir": "利多"}
+      ],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "欧盟|释放战略储备|1亿桶",
+      "title": "G7同意释放1亿桶柴油与原油应急储备，并承诺不互施能源出口限制",
+      "time": "2026-10-02 16:21",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/europe-discussing-plan-diesel-stock-releases-after-us-pressure-source-says-2026-10-02/",
+      "facts": "G7声明称，将通过IEA协调释放1亿桶柴油与原油，立即启动、为期四个月，并承诺成员间不对能源产品实施出口限制。声明未列出原油与柴油的分项数量及参与国。特朗普同日表示美国不会实施柴油出口禁令。",
+      "why": "把此前美方施压欧洲释放柴油库存的要求，变成已公布的储备投放与互不禁运承诺。路透称，消息出来后美国柴油期货下跌3.25%，欧洲柴油期货下跌约5.75%。",
+      "assets": [
+        {"name": "欧洲柴油期货", "dir": "利空"},
+        {"name": "布伦特原油", "dir": "利空"}
+      ],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "法国|利差升破|150bp",
+      "title": "法德十年期国债利差升破150个基点，为2011年底以来首次",
+      "time": "2026-10-02 19:46",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/fr/affaires/taux-le-spread-france-allemagne-dpasse-les-150-pdb-une-premire-depuis-fin-2011-2026-10-02/",
+      "facts": "路透称，10月2日法国与德国十年期国债利差升破150个基点，盘11时06 GMT报于151个基点，盘中高见于152个基点。法国十年期国债收益率当日报于4.9274%，前一交易日曾至2002年以来高位。法国政府周四提交2027年预算新增削减430亿欧元。",
+      "why": "利差突破2011年底以来的区间，表明市场对法国削减支出的定价高于对全球债市调整的定价。路透称，新预算并未缓解投资者对巴黎整顿财政的担忧。",
+      "assets": [
+        {"name": "法国10年期国债", "dir": "利空"},
+        {"name": "欧元", "dir": "利空"}
+      ],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "OPEC+|推迟产能评估|11月中",
+      "title": "路透称消息人士称OPEC+把产能评估完成时间推迟至11月中旬",
+      "time": "2026-10-02 19:15",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/opec-delays-oil-capacity-review-after-iran-war-disrupts-expansion-plans-sources-2026-10-02/",
+      "facts": "两名接近事情的消息人士称，原定2026年9月底完成、用于确定2027年产量基准的最大可持续产能评估，完成时间已推迟至11月中旬。消息人士称，伊朗战争延误中东扩产项目，且并非所有成员已提交数据。OPEC未立即回应置评请求。未经官方证实。",
+      "why": "打破产能评估按原计划在9月底完成、并用于2027年配额谈判的时间表。评估推迟使各成员下一轮产量基准仍未定。",
+      "assets": [
+        {"name": "布伦特原油", "dir": "中性"}
+      ],
+      "confidence": "未经官方证实",
+      "progress": null
+    }
+  ]
+}
