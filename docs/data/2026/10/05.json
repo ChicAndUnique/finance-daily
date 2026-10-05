@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 09:06",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "OPEC+|维持11月配额|-",
+      "title": "OPEC+七个核心成员国维持11月原油产量目标不变",
+      "time": "2026-10-04 18:25",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/",
+      "facts": "路透报道，OPEC+七个核心成员国周日线上会议决定维持11月产量目标不变。参与决定的是沙特、俄罗斯、伊拉克、科威特、阿尔及利亚、哈萨克斯坦和阿曼。下一次会议定于11月1日。",
+      "why": "市场原预期近期不会再上调配额。决定把下一次供应政策调整推到产能评估之后。",
+      "assets": [{"name": "布伦特原油", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "英国|拟征电动车关税|45%",
+      "title": "《泰晤士报》称英国商务大臣正拟定对中国电动车加征关税",
+      "time": "2026-10-05 05:46",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/britain-expected-impose-tariffs-chinese-electric-cars-times-reports-2026-10-04/",
+      "facts": "路透引述《泰晤士报》周日报道，英国商务大臣乔纳森·雷诺兹正在拟定对中国汽车进口加征关税的方案。报道称英方准备与欧盟对中国电动车的45%征税看齐。路透称尚未能核实该报道。",
+      "why": "英国此前表示贸易措施只按自身利益独立决定。若落实，中国电动车对英出口将面对与欧盟同档的关税。",
+      "assets": [{"name": "中国电动车出口", "dir": "利空"}, {"name": "欧洲车企股份", "dir": "利多"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "伊朗|重申关闭海峡|-",
+      "title": "伊朗议长称霍尔木兹海峡在伊斯兰堡备忘录七项条件落实前不开放",
+      "time": "2026-10-04 16:08",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86282520/Hormuz-Strait-to-remain-closed-until-Iran-s-seven-conditions",
+      "facts": "伊朗通讯社报道，议会议长加利巴夫周日在德黑兰议会称，伊斯兰堡备忘录的七项条件落实前不会重开霍尔木兹海峡。他称美方近期通过中介提出方案，伊朗不以美方官员声明或推文作为国家安全依据。",
+      "why": "9月28日美方已拒绝伊朗重开海峡方案。此次是伊方再次把开放条件与中介沟通绑在一起。",
+      "assets": [{"name": "布伦特原油", "dir": "利多"}, {"name": "美国10年期国债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "英国|通报油轮遇袭|2艘",
+      "title": "英国海事贸易行动中心称周末两艘油轮在阿曼以东及霍尔木兹海峡遇袭",
+      "time": "2026-10-04 20:35",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+      "facts": "CNBC引述英国海事贸易行动中心通报，周六一艘原油轮在阿曼以东4海里被未明弹体击中。周日另一艘油轮在霍尔木兹海峡被报击中，机舱受损。",
+      "why": "海峡通行量近期回升后，船舶遇袭仍在发生。这使原油运输风险溢价难以下修。",
+      "assets": [{"name": "布伦特原油", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
