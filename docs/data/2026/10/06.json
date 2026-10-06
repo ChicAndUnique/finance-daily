@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06 09:04",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美联储|提示再加息|-",
+      "title": "纽约联储威廉姆斯称若经济符合预测，今年晚些时候再上调联邦基金利率一次可能合适",
+      "time": "2026-10-06 09:00",
+      "source": "国际清算银行",
+      "url": "https://www.bis.org/speeches/20261005-unwavering-dedication",
+      "facts": "国际清算银行5日刊发纽约联储主席威廉姆斯讲话。他称若经济大体符合其预测，今年晚些时候再上调联邦基金利率目标区间一次可能合适，以支持通胀更快回到2%。他同时称9月加息25bp至3.75%–4%后并无紧迫性，并预计今年整体通胀为3.5%。",
+      "why": "非农偏弱后市场已大幅下调10月加息概率。该表态把再次加息的可能时点放到今年晚些时候，而不是关闭窗口。",
+      "assets": [
+        {"name": "美元指数", "dir": "利多"},
+        {"name": "美国国债", "dir": "利空"}
+      ],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "原油|布伦特收于|$100.32",
+      "title": "布伦特原油5日收于100.32美元，较前一交易日下跌1.89%",
+      "time": "2026-10-06 04:37",
+      "source": "路透",
+      "url": "https://www.channelnewsasia.com/business/nasdaq-hits-record-dollar-and-treasury-yields-climb-oil-prices-ease-6432001",
+      "facts": "路透称，布伦特期货5日下跌1.93美元或1.89%，收于100.32美元。美油WTI同日下跌1.68美元至89.43美元。报道将下跌与中东原油出口增加以及七国集团承诺增加供应相联系。",
+      "why": "市场此前一直按霍尔木兹通行中断给油价定价。出口回升与储备释放使布伦特回落至100美元附近。",
+      "assets": [
+        {"name": "布伦特原油", "dir": "利空"},
+        {"name": "WTI原油", "dir": "利空"}
+      ],
+      "confidence": "通讯社独家",
+      "progress": "进展 · 承接 2026-10-01（原值 $103.50 → 现值 $100.32）"
+    },
+    {
+      "cat": "global",
+      "key": "原油|出口回升|1830万桶/日",
+      "title": "路透引Kpler数据称中东原油出口7日均值在9月30日为1830万桶/日",
+      "time": "2026-10-05 09:09",
+      "source": "路透",
+      "url": "https://www.reuters.com/business/energy/middle-east-crude-oil-exports-exceed-pre-war-levels-tanker-attacks-increase-2026-10-05/",
+      "facts": "路透5日报道称，Kpler初步数据显示中东原油出口7日移动均值在9月30日为1830万桶/日。出口在9月有14天高于战前水平，战前12个月均值约为1800万桶/日。同一报道称过去一周至少有7起油轮袭击。",
+      "why": "此前定价假设海湾出口仍明显低于战前。该数据显示流量已在部分交易日回到战前之上。",
+      "assets": [
+        {"name": "布伦特原油", "dir": "利空"}
+      ],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "英国|通报油轮遇袭|4起",
+      "title": "英国海事贸易行动室5日发出4起霍尔木兹袭击警告，另有船舶被伊朗革命令调头",
+      "time": "2026-10-06 00:37",
+      "source": "Seatrade Maritime",
+      "url": "https://www.seatrade-maritime.com/security/ukmto-issues-four-hormuz-attack-warnings-in-four-hours",
+      "facts": "Seatrade Maritime引述英国海事贸易行动室称5日发出4起警告和1则提示。其中5日1637时一船被未知弹体击中并引发机舱火灾，当时无人员伤亡报告。另有一船在霍尔木兹海峡、阿曼以北11海里处被伊朗革命令调头，船方照办。",
+      "why": "出口量回升与袭击频次上升同时出现。这使通行恢复仍面对新的中断风险。",
+      "assets": [
+        {"name": "布伦特原油", "dir": "利多"}
+      ],
+      "confidence": "通讯社独家",
+      "progress": "进展 · 承接 2026-10-05（原值 2艘 → 现值 4起）"
+    },
+    {
+      "cat": "scoop",
+      "key": "胡塞|声称袭击阿美|-",
+      "title": "胡塞声称袭击利雅得机场、拉比格阿美炼厂和亚卜哈机场，沙特尚未确认",
+      "time": "2026-10-06 08:39",
+      "source": "路透",
+      "url": "https://www.reuters.com/business/energy/oil-prices-slip-traders-weigh-strong-mideast-exports-against-gulf-tensions-2026-10-06/",
+      "facts": "路透6日报道称，也门胡塞5日声称袭击沙特多处设施，包括利雅得哈利德国王国际机场、拉比格阿美炼厂和亚卜哈机场。报道称沙特尚未立即确认。同日布伦特期货报每桶100.28美元，较前一日结算价下跌4美分。",
+      "why": "油价回落建立在出口恢复之上。若袭击得到证实，会改变对沙特出口设施安全的假设。未经官方证实。",
+      "assets": [
+        {"name": "布伦特原油", "dir": "利多"}
+      ],
+      "confidence": "未经官方证实",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "美国|放开红柴油|-",
+      "title": "特朗普签署行政令，允许任何人购买免税红柴油",
+      "time": "2026-10-06 08:10",
+      "source": "路透",
+      "url": "https://www.reuters.com/business/energy/trump-signs-order-expand-access-tax-exempt-diesel-2026-10-06/",
+      "facts": "路透报道，特朗普5日在内布拉斯加州大岛集会上签署行政令，扩大免税柴油的获取范围。他称该令将取消非公路使用限制，任何人都可购买免税红柴油。报道未给出令文生效日期。",
+      "why": "美国柴油价格处于高位。放开免税红柴油会改变零售柴油与非公路柴油的价差。",
+      "assets": [
+        {"name": "美国柴油", "dir": "利空"}
+      ],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
