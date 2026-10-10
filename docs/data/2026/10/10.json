@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10 09:05",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "policy",
+      "key": "中国|恢复燃料出口|370万吨",
+      "title": "中国批准恢复10月成品油出口约370万吨",
+      "time": "2026-10-09 11:28",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/china-resume-october-fuel-exports-after-brief-halt-four-trade-sources-say-2026-10-09/",
+      "facts": "四名交易员称中国将恢复10月成品油出口。批准汽油、柴油和航煤合计约370万吨。此前国庆假期期间暂停出口至香港澳门以外地区。",
+      "why": "打破了市场对出口持续暂停的预期，有助于缓解全球柴油等燃料紧张。",
+      "assets": [{"name": "原油", "dir": "利空"}, {"name": "柴油", "dir": "利空"}],
+      "confidence": "未经官方证实",
+      "progress": "进展 · 承接 2026-10-02（原值 暂停 → 现值 恢复370万吨）"
+    },
+    {
+      "cat": "global",
+      "key": "美国|公布通胀预期|4.7%",
+      "title": "美国密歇根大学10月初步一年期通胀预期升至4.7%",
+      "time": "2026-10-09 22:00",
+      "source": "University of Michigan",
+      "url": "https://www.sca.isr.umich.edu/",
+      "facts": "初步10月消费者情绪指数降至46.3，低于预期。一年期通胀预期升至4.7%，五年期升至3.5%。均为5月以来最高。",
+      "why": "进一步强化通胀粘性预期，支持美联储年内再加息的概率。",
+      "assets": [{"name": "美债", "dir": "利空"}, {"name": "美元", "dir": "利多"}, {"name": "黄金", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
