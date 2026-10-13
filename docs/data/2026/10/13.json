@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13 09:07",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "cn",
+      "key": "央行|开展7天逆回购|500亿元",
+      "title": "央行开展500亿元7天期逆回购操作利率1.40%",
+      "time": "2026-10-12 09:24",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4211765.html",
+      "facts": "中国人民银行以固定利率、数量招标方式开展500亿元7天期逆回购操作，全额满足一级交易商需求，操作利率为1.40%。当日有3000亿元14天期逆回购到期，公开市场实现净回笼2500亿元。",
+      "why": "节后公开市场延续净回笼操作，显示央行维持流动性适度宽松但不进行大规模投放。",
+      "assets": [{"name": "中国国债", "dir": "中性"}, {"name": "人民币", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "欧盟|限制混动出口|35万辆",
+      "title": "欧盟与中国达成协议限制中方混动车年进口至约35万辆",
+      "time": "2026-10-12 14:51",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/chinas-75-billion-eu-hybrid-boom-faces-new-curbs-under-china-eu-deal-2026-10-12/",
+      "facts": "欧盟与中国达成协议，限制中国混动及插电混动车对欧年出口规模约35万辆，预计将减半相关出口量。中国上半年对欧混动出口达75亿美元。",
+      "why": "此前欧盟对中方纯电车实施关税后混动成为替代出口路径，此次协议直接限制混动规模并改变贸易预期。",
+      "assets": [{"name": "欧洲汽车股", "dir": "利多"}, {"name": "中国汽车股", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "原油|中东袭击推升|$106.65",
+      "title": "布伦特原油因沙特机场遇袭等中东紧张升至106.65美元",
+      "time": "2026-10-12 18:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-stays-above-100-ahead-earnings-2026-10-12/",
+      "facts": "胡塞武装对利雅得机场发动新袭击导致机场关闭。布伦特原油期货收于约106.65美元，较前一交易日上涨。",
+      "why": "中东供应中断风险上升叠加俄乌能源停火协议不确定性，推升油价并影响通胀预期。",
+      "assets": [{"name": "布伦特原油", "dir": "利多"}, {"name": "美债", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    }
+  ]
+}
