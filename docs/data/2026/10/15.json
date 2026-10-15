@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15 23:04",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|公布9月核心CPI|0.3%",
+      "title": "美国9月核心CPI环比0.3%高于预期0.2%",
+      "time": "2026-10-14 20:30",
+      "source": "美国劳工统计局",
+      "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "facts": "美国劳工统计局公布，9月CPI环比上涨0.6%，同比3.7%。核心CPI环比上涨0.3%，同比2.6%，高于市场预期的2.5%。汽油价格环比上涨9.1%，对整体涨幅贡献过半。",
+      "why": "核心通胀高于预期，强化美联储年内再加息的可能性，市场对10月加息概率上升。",
+      "assets": [{"name": "美债", "dir": "利空"}, {"name": "美元", "dir": "利多"}, {"name": "黄金", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "BOJ|倾向不连续加息|-",
+      "title": "日本央行官员倾向10月不连续加息",
+      "time": "2026-10-13 15:33",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-13/boj-is-said-to-lean-against-back-to-back-rate-hike-in-october",
+      "facts": "Bloomberg报道，据知情人士，日本央行官员倾向避免10月连续加息，但考虑12月可能再次加息。官员认为缺乏通胀上行风险突然增加的迹象。",
+      "why": "打破市场对连续加息的预期，可能缓和日元升值压力。",
+      "assets": [{"name": "日元", "dir": "利空"}, {"name": "日债", "dir": "利多"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|开展6个月买断式逆回购|7000亿元",
+      "title": "央行将开展7000亿元6个月买断式逆回购净投放2000亿元",
+      "time": "2026-10-14 20:00",
+      "source": "中国经济网",
+      "url": "https://c.m.163.com/news/a/L994H3820514CQIE.html",
+      "facts": "中国人民银行公告，10月15日开展7000亿元6个月期买断式逆回购操作。由于到期5000亿元，净投放2000亿元。",
+      "why": "在10月中长期流动性到期压力大的情况下，加量投放中期流动性，呵护资金面。",
+      "assets": [{"name": "中国国债", "dir": "利多"}, {"name": "A股", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
