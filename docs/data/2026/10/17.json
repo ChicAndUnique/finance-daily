@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17 09:05",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "原油|布伦特触及|109.86美元",
+      "title": "美股纳指下跌2.15%至26140，布伦特原油触及109.86美元",
+      "time": "2026-10-17 06:37",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20261017/92ae47ed06d14f749bcf2b86b3c2970d/c.html",
+      "facts": "Nasdaq Composite fell 572.99 points or 2.15% to 26,140.03. S&P 500 fell 84.62 points or 1.09% to 7,659.44. WTI November settled at $101.41, up $3.44 or 3.51%. Brent touched $109.86.",
+      "why": "Tech shares sold off on doubts about AI infrastructure returns. Oil rose on escalated strikes around the Strait of Hormuz.",
+      "assets": [{"name": "Nasdaq", "dir": "利空"}, {"name": "Brent crude", "dir": "利多"}],
+      "confidence": "通讯社",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美联储|不预判加息|-",
+      "title": "美联储主席沃什表示不预判会议决定，市场将10月加息概率降至约15%",
+      "time": "2026-10-16 11:57",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/asia/feds-warsh-gives-no-hint-october-policy-decision-2026-10-16/",
+      "facts": "Warsh said at IMF meetings in Bangkok he does not prejudge meetings and does not believe in saying now what he might do at remaining meetings this year. He referenced the September hike as removing a dose of accommodation.",
+      "why": "Markets interpreted the lack of signal as reducing odds of an October hike from around 27% to below 15%.",
+      "assets": [{"name": "美股", "dir": "利多"}, {"name": "美债收益率", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "商务部|提议限制AI出口|40项",
+      "title": "商务部提议将40项AI、生物医药、光伏技术列入出口管制目录",
+      "time": "2026-10-16 16:31",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+      "facts": "China proposed adding 40 technologies across AI, biomedicine and photovoltaic sectors to its catalogue of technologies prohibited or restricted from export. Public comments open until November 15, with interim pre-export registration.",
+      "why": "Includes AI models, agents and computing clusters, tightening control over key tech amid competition with the US.",
+      "assets": [{"name": "中国AI相关", "dir": "利空"}, {"name": "全球半导体", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "台湾|计划限制AI芯片出口|-",
+      "title": "台湾经济部长称计划将AI服务器和先进半导体列入出口管制对华构成刑事犯罪",
+      "time": "2026-10-16 09:49",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal",
+      "facts": "Taiwan's Minister of Economic Affairs Kung Ming-hsin told Bloomberg Taipei plans to add AI servers and cutting-edge semiconductors to controlled items. Shipping restricted AI hardware to China would become a criminal offense under the Foreign Trade Act.",
+      "why": "Aligns with US restrictions as part of reciprocal trade agreement commitments. Not yet implemented.",
+      "assets": [{"name": "Nvidia相关", "dir": "利空"}, {"name": "中国AI芯片", "dir": "利空"}],
+      "confidence": "付费墙",
+      "progress": null
+    }
+  ]
+}
