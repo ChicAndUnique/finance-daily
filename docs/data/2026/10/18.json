@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18 09:05",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "cn",
+      "key": "央行|继续适度宽松|-",
+      "title": "央行行长潘功胜表示将继续实施适度宽松的货币政策",
+      "time": "2026-10-17 20:17",
+      "source": "中国人民银行",
+      "url": "https://finance.eastmoney.com/a/202610173899076365.html",
+      "facts": "潘功胜在IMFC会议书面发言中表示，下一步将继续实施好适度宽松的货币政策，根据宏观经济运行情况、物价走势和宏观调控需要，综合运用多种工具，保持流动性充裕，引导调控好利率水平。",
+      "why": "重申货币政策继续适度宽松定调，打破市场对近期收紧的部分担忧。",
+      "assets": [{"name": "A股", "dir": "利多"}, {"name": "人民币债券", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "ECB|强调审慎应对|-",
+      "title": "拉加德称能源冲击过大不宜看穿但应审慎应对",
+      "time": "2026-10-17 08:00",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+      "facts": "拉加德在IMFC声明中表示，能源冲击过大不宜看穿，但审慎回应仍属恰当。长期利率上升已使融资条件收紧，将使成长放缓并降低传导。",
+      "why": "明确能源冲击需要回应，但强调审慎，调整市场对连续大幅加息的预期。",
+      "assets": [{"name": "欧元", "dir": "利多"}, {"name": "欧洲股市", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "BOJ|重申继续加息|-",
+      "title": "植田表示将继续加息以锚定通胀目标",
+      "time": "2026-10-16 16:44",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/global-inflation-debate-puts-boj-rate-hike-pace-spotlight-2026-10-16/",
+      "facts": "植田和男在曼谷表示，潜在通胀接近2%，不能容忍进一步超越，金融条件仍宽松，将继续上调利率以调整宽松程度。",
+      "why": "重申继续加息立场，支持市场对日银近期再加息的预期。",
+      "assets": [{"name": "日元", "dir": "利多"}, {"name": "日本国债", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    }
+  ]
+}
