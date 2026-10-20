@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20 09:05",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "cn",
+      "key": "中国|公布三季度GDP|4.5%",
+      "title": "中国三季度GDP同比增长4.5%，好于预期的4.4%",
+      "time": "2026-10-19 10:00",
+      "source": "国家统计局",
+      "url": "https://www.reuters.com/world/china/chinas-economic-growth-picks-up-third-quarter-beating-expectations-2026-10-19/",
+      "facts": "国家统计局公布三季度GDP同比增长4.5%，前三季度累计4.6%。市场预期4.4%。环比增长1.2%。",
+      "why": "好于预期，减轻近期进一步大规模刺激的压力，支撑增长目标达成。",
+      "assets": [{"name":"A股","dir":"利多"},{"name":"人民币","dir":"利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|研究隔夜政策利率|-",
+      "title": "央行研究将隔夜逆回购利率作为主要政策利率",
+      "time": "2026-10-19 17:00",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-central-bank-studies-making-overnight-rate-its-main-policy-rate-2026-10-19/",
+      "facts": "潘功胜表示将适时研究将公开市场操作主期限切换至隔夜。隔夜利率将成主要政策杠杆。",
+      "why": "进一步市场化利率调控，与全球央行对齐，可能提升政策传导精度。",
+      "assets": [{"name":"银行间利率","dir":"中性"},{"name":"人民币资产","dir":"利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "证监会|批准主动ETF|18只",
+      "title": "证监会批准首批18只主动管理ETF",
+      "time": "2026-10-19 20:00",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/markets/article/3371410/china-plans-18-active-etfs-regulator-seeks-shore-stock-market",
+      "facts": "吴清在金融街论坛宣布批准18只主动ETF注册。旨在引导资金入市，强化市场韧性。",
+      "why": "增加中长期资金供给渠道，对A股流动性构成支持。",
+      "assets": [{"name":"A股","dir":"利多"},{"name":"公募基金","dir":"利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|推出非银流动性支持|-",
+      "title": "央行将设立非银机构大额赎回流动性支持工具",
+      "time": "2026-10-19 21:00",
+      "source": "新华社",
+      "url": "https://english.news.cn/20261020/dba9f591a1644e0badf2228746d7a997/c.html",
+      "facts": "潘功胜宣布与其他部门共同推出针对非银机构大规模赎回的流动性支持设施，并扩大常备借贷便利机构范围。",
+      "why": "增强金融体系应对赎回压力的能力，稳定市场预期。",
+      "assets": [{"name":"债券市场","dir":"利多"},{"name":"非银机构","dir":"利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
