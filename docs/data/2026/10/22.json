@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22 09:30",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "沙特|油田遭袭|-",
+      "title": "沙特阿美沙伊拜油田遭无人机袭击，两人死亡，产量未受影响",
+      "time": "2026-10-21 17:00",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/latest-oil-market-news-and-analysis-for-oct-22",
+      "facts": "沙特能源部称，10月21日无人机试图袭击阿美沙伊拜油田处理设施，防空拦截后碎片导致两名外籍人员死亡、两人受伤。油田产能100万桶/日，运营未受影响。美国下令部分使馆人员撤离。",
+      "why": "打破了近期中东供应中断风险下降的预期，推动布伦特原油向每桶近110美元靠近。",
+      "assets": [
+        {"name": "布伦特原油", "dir": "利多"},
+        {"name": "黄金", "dir": "中性"}
+      ],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "美国|推进中美投资协议|-",
+      "title": "美中谈判代表加紧敲定具体投资协议，为深圳APEC峰会做准备",
+      "time": "2026-10-20 06:00",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371413/us-china-negotiators-race-nail-down-concrete-deals-shenzhen-apec-looms",
+      "facts": "多名消息源称，美中谈判代表正加紧就投资和贸易协议取得具体进展，为11月深圳APEC期间习近平与特朗普会晤做准备。双方在投资委员会讨论上取得进展，但仍有复杂性。",
+      "why": "打破了贸易休战后进展停滞的预期，暗示可能有进一步协议。",
+      "assets": [
+        {"name": "美股", "dir": "利多"},
+        {"name": "人民币", "dir": "利多"}
+      ],
+      "confidence": "未经官方证实",
+      "progress": null
+    }
+  ]
+}
