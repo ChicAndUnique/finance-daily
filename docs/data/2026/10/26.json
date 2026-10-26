@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26 09:06",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "cn",
+      "key": "央行|缩量续作MLF|2000亿元",
+      "title": "央行将于10月26日开展7000亿元1年期MLF操作，净回笼2000亿元",
+      "time": "2026-10-23 18:22",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34318567",
+      "facts": "中国人民银行公告，2026年10月26日以固定数量、利率招标、多重价位中标方式开展7000亿元1年期MLF操作。10月MLF到期9000亿元，净回笼2000亿元。上月为净投放2000亿元。",
+      "why": "在资金面偏松背景下缩量，引导短端利率回升，延续流动性精准调控。",
+      "assets": [{"name": "中国国债", "dir": "利空"}, {"name": "人民币", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "法国|利差升破|178bp",
+      "title": "法国10年期国债相对德国利差升至178个基点，创2011年以来新高",
+      "time": "2026-10-22 15:37",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/french-bond-stress-deepens-as-crisis-era-caution-creeps-back",
+      "facts": "法国10年期国债相对德国溢价一度扩大19个基点至1.78个百分点。收益率超过5%，创2002年以来高位。政治抗议加剧市场对财政的担忧。",
+      "why": "主权风险溢价扩大，打破对欧元区核心国家利差稳定的预期。",
+      "assets": [{"name": "法国国债", "dir": "利空"}, {"name": "欧元", "dir": "利空"}],
+      "confidence": "付费墙",
+      "progress": "进展 · 承接 2026-10-03（原值 150bp → 现值 178bp）"
+    }
+  ]
+}
