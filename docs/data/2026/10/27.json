@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27 09:05",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美联储|预计暂停加息|-",
+      "title": "美联储官员释放信号本周会议将暂停加息",
+      "time": "2026-10-26 18:05",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/fed-hit-pause-rate-hikes-maybe-not-long-2026-10-26/",
+      "facts": "路透报道称美联储决策者已信号本周不会再次提升短期借款成本。市场估计10月27-28日会议维持利率在3.75%-4.00%区间的概率约90%。决策日期为10月28日。",
+      "why": "突破此前市场对连续加息的部分定价，将关注点转向十二月决议。",
+      "assets": [{"name": "美债", "dir": "利多"}, {"name": "美股", "dir": "利多"}, {"name": "美元", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "BOJ|预计维持利率|1.25%",
+      "title": "日本央行预计维持利率1.25%并释放十二月加息空间",
+      "time": "2026-10-26 11:33",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/bank-japans-hawkish-pause-leave-scope-december-hike-2026-10-26/",
+      "facts": "路透报道称日本央行将在本周五会议上维持政策利率在1.25%。因委会将上修下一财年物价预测，并强调通胀已大致达标2%目标。市场预期十二月可能加息至1.5%。",
+      "why": "维持当前利率但提前释放近期加息可能，影响日元与日债定价预期。",
+      "assets": [{"name": "日元", "dir": "利空"}, {"name": "日债", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    }
+  ]
+}
