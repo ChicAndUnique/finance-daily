@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29 09:05",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美联储|维持利率|3.75-4%",
+      "title": "美联储维持联邦基金利率目标区间在3.75%至4%",
+      "time": "2026-10-29 02:00",
+      "source": "美联储",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "facts": "联邦公开市场委员会以10比2的投票维持联邦基金利率目标区间在3.75%至4%。两名委员投票支持加息25个基点。声明称通胀仍然高企，更多信息将帮助确定政策立场。",
+      "why": "市场此前预期可能暂停加息，但两名异议票显示鹰派压力仍在，打破了完全鸽派的预期。",
+      "assets": [{"name": "美债", "dir": "利空"}, {"name": "美元", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "加拿大|加息|25bp",
+      "title": "加拿大央行将政策利率上调25个基点至2.5%",
+      "time": "2026-10-28 21:45",
+      "source": "加拿大央行",
+      "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
+      "facts": "加拿大央行将隔夜利率目标上调25个基点至2.5%。这是三年多来首次加息。行长表示可能需要进一步上调以防止能源价格外溢。",
+      "why": "打破了维持利率的预期，反映对通胀上行风险的担忧。",
+      "assets": [{"name": "加元", "dir": "利多"}, {"name": "加拿大债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "新西兰|维持利率|2.75%",
+      "title": "新西兰央行以4比3投票维持官方现金利率在2.75%",
+      "time": "2026-10-28 10:00",
+      "source": "新西兰央行",
+      "url": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/ocr-held-at-2-75-percent",
+      "facts": "货币政策委员会以4比3投票维持官方现金利率在2.75%。三名委员支持加息25个基点。委员会称更紧政策可能需要但取决于经济前景。通胀预计12月升至4.4%。",
+      "why": "市场普遍预期加息，意外维持打破了加息预期，新西兰元大幅下跌。",
+      "assets": [{"name": "新西兰元", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "美国|警告海湾可能打击伊朗|-",
+      "title": "华尔街日报报道美国警告海湾国家可能在中期选举后对伊朗进行短暂激烈军事行动",
+      "time": "2026-10-28 09:00",
+      "source": "华尔街日报",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
+      "facts": "华尔街日报报道美国通过外交和军事渠道告诉海湾国家准备中期选举后可能的短暂激烈对伊军事行动。特朗普尚未决定但倾向于大规模打击。油价因报告上涨。",
+      "why": "未经官方证实，推升油价风险溢价，打破了近期外交缓和的预期。",
+      "assets": [{"name": "原油", "dir": "利多"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    }
+  ]
+}
