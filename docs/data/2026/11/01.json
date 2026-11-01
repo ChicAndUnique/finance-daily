@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01 09:06",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "原油|布伦特收于|$117.64",
+      "title": "布伦特原油收于117.64美元，因霍尔木兹海峡油轮遭附着式炸药袭击",
+      "time": "2026-10-30 10:27",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/",
+      "facts": "10月30日布伦特12月合约收于117.64美元/桶，上涨2.4%。英国海事贸易行动报告霍尔木兹海峡一艘油轮遭小船附着炸药装置袭击。这是美伊冲突开始以来该水道首次已知成功使用附着式水雷的袭击。",
+      "why": "此前市场对外交进展有所期待，油价一度回落，此次袭击重新强化供应中断风险，推升价格至6个月高位。",
+      "assets": [{"name": "布伦特原油", "dir": "利多"}, {"name": "美债", "dir": "利空"}],
+      "confidence": "通讯社",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美国|公布三季度GDP|3.4%",
+      "title": "美国三季度GDP初值增长3.4%，高于预期的3.2%",
+      "time": "2026-10-29 20:37",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/us-economic-growth-accelerates-third-quarter-2026-10-29/",
+      "facts": "美国商务部公布三季度GDP年化增速3.4%，为一年最快，高于经济学家预期的3.2%。消费支出保持强劲，企业加大AI相关投资。",
+      "why": "高于预期的增长叠加通胀数据，强化美联储可能进一步收紧政策的预期。",
+      "assets": [{"name": "美元", "dir": "利多"}, {"name": "美股", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "金融监管总局|发布信托办法|-",
+      "title": "金融监管总局发布《资产管理信托管理办法》，明确私募定位并禁止保本承诺",
+      "time": "2026-10-30 22:08",
+      "source": "金融监管总局",
+      "url": "https://finance.sina.com.cn/money/bank/2026-10-30/doc-iniwzprn2149744.shtml",
+      "facts": "办法自2027年1月1日起施行。资产管理信托定位为私募产品，投资者数量不超过200人。禁止任何形式保本保收益承诺，强化组合投资和风险管理。",
+      "why": "补齐信托资管业务专门制度短板，推动行业回归本源，可能影响信托产品供给和相关资产配置。",
+      "assets": [{"name": "信托相关资产", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "OPEC+|维持12月配额|-",
+      "title": "消息人士称OPEC+原则上同意维持12月产量目标不变",
+      "time": "2026-10-31 00:40",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/opec-set-keep-production-targets-unchanged-december-source-says-2026-10-31/",
+      "facts": "三名知情人士告诉路透，七个核心OPEC+成员在周日会议上原则上同意维持12月产量目标不变。海湾产油国出口因伊战中断后有所恢复，但多数仍低于目标。",
+      "why": "市场预期年内不再调整，聚焦2027年配额谈判，短期内对油价供应端预期中性偏紧。",
+      "assets": [{"name": "原油", "dir": "中性"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    }
+  ]
+}
