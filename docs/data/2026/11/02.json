@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02 09:15",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "原油|回落至|111.84美元",
+      "title": "布伦特原油回落至111.84美元，因伊朗与卡塔尔继续和谈",
+      "time": "2026-11-02 00:11",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-slips-more-than-1-talks-continue-ending-iran-war-2026-11-01/",
+      "facts": "11月2日早盘布伦特原油期货跌1.40%至111.84美元/桶。伊朗与卡塔尔官员连续第三天举行旨在结束美以对伊战争的会谈。",
+      "why": "此前因袭击预期油价走高，和谈进展预期缓解供应中断风险，导致价格技术性回落。",
+      "assets": [{"name": "布伦特原油", "dir": "利空"}, {"name": "美债", "dir": "利多"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    }
+  ]
+}
