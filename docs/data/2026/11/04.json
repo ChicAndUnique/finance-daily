@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04 09:07",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "cn",
+      "key": "央行|上调外汇存款准备金率|6%",
+      "title": "央行宣布上调金融机构外汇存款准备金率2个百分点至6%，自11月15日起生效",
+      "time": "2026-11-03 09:00",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/asia-pacific/china-raise-forex-deposit-reserve-ratio-6-starting-november-15-2026-11-03/",
+      "facts": "中国人民银行宣布将金融机构外汇存款准备金率从4%上调至6%，自2026年11月15日起实施。该调整预计抽回约240亿美元流动性。在岸人民币随后走弱。",
+      "why": "人民币此前持续升值，央行通过上调外汇准备金率抑制单边升值压力，打破市场对进一步快速升值的预期。",
+      "assets": [{"name": "人民币", "dir": "利空"}, {"name": "中国国债", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "澳大利亚|上调现金利率|4.85%",
+      "title": "澳大利亚央行加息25个基点至4.85%，为18年来最高，投票6比3通过",
+      "time": "2026-11-03 12:30",
+      "source": "澳大利亚储备银行",
+      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
+      "facts": "澳大利亚储备银行货币政策委员会决定将现金利率目标上调25个基点至4.85%。六名成员投票支持加息，三名支持维持不变。通胀展望上修，预计较长时间高于目标。",
+      "why": "市场预期加息，但分裂投票暗示可能接近加息周期尾声，影响澳元和全球利率预期。",
+      "assets": [{"name": "澳元", "dir": "利多"}, {"name": "澳大利亚国债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "美国|暂缓SK海力士中国设备许可|-",
+      "title": "美国商务部暂缓批准SK海力士在中国扩大生产所需设备出口许可，影响其纽约工厂计划",
+      "time": "2026-11-03 20:00",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/",
+      "facts": "知情人士称，美国官员尚未批准SK海力士为大连工厂扩大产能所需的美国芯片制造设备出口许可。该公司计划在纽约投资约450亿美元建两座NAND工厂，资金部分依赖中国业务。",
+      "why": "美国对华芯片设备出口限制持续，影响韩国芯片企业美国投资计划，强化出口管制信号。",
+      "assets": [{"name": "SK海力士股票", "dir": "利空"}, {"name": "半导体设备股", "dir": "中性"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美国|公布9月职位空缺|752.3万",
+      "title": "美国9月职位空缺升至752.3万，超出市场预期约716万",
+      "time": "2026-11-03 22:00",
+      "source": "美国劳工统计局",
+      "url": "https://www.bls.gov/news.release/jolts.nr0.htm",
+      "facts": "美国劳工统计局公布，9月职位空缺为752.3万，高于8月修正值719万，也高于预期约710-716万。离职人数上升，裁员下降。",
+      "why": "强于预期的劳动力需求数据可能支持美联储维持或进一步收紧政策的预期，推高美债收益率。",
+      "assets": [{"name": "美债", "dir": "利空"}, {"name": "美元", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "美国|要求英伟达限制中国算力占比|49%",
+      "title": "英伟达口头要求云服务合作伙伴确保至少51%业务面向非中国客户",
+      "time": "2026-11-03 21:00",
+      "source": "金融时报",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says",
+      "facts": "据金融时报报道，英伟达告知数据中心合作伙伴，必须确保至少51%的服务销售给非中国企业。该要求适用于新合同，通过销售团队口头传达。",
+      "why": "美国对华AI算力限制从硬件出口延伸至云服务使用，进一步限制中国获取先进算力途径。",
+      "assets": [{"name": "英伟达股票", "dir": "中性"}, {"name": "中国AI企业", "dir": "利空"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    }
+  ]
+}
