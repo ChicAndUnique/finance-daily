@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05 09:07",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "cn",
+      "key": "央行|下调回购增持再贷款利率|1%",
+      "title": "央行下调股票回购增持再贷款利率至1%并保障额度",
+      "time": "2026-11-04 11:00",
+      "source": "中国人民银行",
+      "url": "https://english.news.cn/20261104/2de1d235ab584679b009d6046abde058/c.html",
+      "facts": "央行宣布自11月4日起将股票回购增持再贷款利率下调25个基点至1%。该工具支持21家全国性银行和5家系统重要性城商行，支持比例100%。银行已申请超过2000亿元额度，央行将充分满足需求。",
+      "why": "此前该工具为临时安排，现转为常态化并降息，强化对资本市场的流动性支持。",
+      "assets": [{"name": "A股", "dir": "利多"}, {"name": "港股", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "瑞典|加息|25bp",
+      "title": "瑞典央行加息25个基点至2%并暗示进一步加息",
+      "time": "2026-11-04 16:30",
+      "source": "Sveriges Riksbank",
+      "url": "https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/2026/monetary-policy-decision-november-2026/",
+      "facts": "瑞典央行执行董事会决定将政策利率上调0.25个百分点至2%，自11月11日起生效。这是2023年以来首次加息。若通胀和活动展望维持，未来一年可能进一步加息。",
+      "why": "打破此前暂停加息的预期，响应中东冲突带来的能源成本和供给冲击。",
+      "assets": [{"name": "瑞典克朗", "dir": "利多"}, {"name": "欧洲债券", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "欧盟|公布10月CPI|4.0%",
+      "title": "欧元区10月CPI同比升至4.0%创三年新高",
+      "time": "2026-11-04 18:05",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/euro-zone-inflation-rises-three-year-high-2026-11-04/",
+      "facts": "欧元区10月通胀率升至4.0%，高于9月的3.8%，符合预期。能源通胀达20%。多位ECB官员已暗示12月可能加息。",
+      "why": "能源价格冲击持续推高通胀，强化市场对ECB在12月加息的定价。",
+      "assets": [{"name": "欧元", "dir": "利多"}, {"name": "欧洲国债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
