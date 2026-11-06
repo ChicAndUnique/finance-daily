@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06 23:08",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "英国|加息|25bp",
+      "title": "英国央行加息25个基点至4%，首次自2023年来加息",
+      "time": "2026-11-05 12:00",
+      "source": "Bank of England",
+      "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
+      "facts": "英国货币政策委员会以多数票8-1投票决定将政策利率上调至4%。一名委员投票支持上调至4.25%。决定基于中东冲突导致能源价格上升带来的通胀压力。",
+      "why": "突破市场对缓慢加息或维持的预期，并指出若能源价格持续高位仍可能进一步加息。",
+      "assets": [{"name": "英镑", "dir": "利多"}, {"name": "英国国债", "dir": "利空"}, {"name": "英股", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
