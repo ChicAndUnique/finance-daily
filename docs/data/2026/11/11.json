@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11 09:08",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|公布10月CPI|0.4%",
+      "title": "美国10月CPI环比上升0.4%超预期",
+      "time": "2026-11-10 21:30",
+      "source": "BLS",
+      "url": "https://www.bls.gov/cpi/news.htm",
+      "facts": "美国劳工统计局公布10月CPI环比上升0.4%，高于预期的0.3%。核心CPI环比上升0.3%，高于预期的0.2%。BLS未公布同比数据因上年政府关门。",
+      "why": "数据超预期强化美联储12月加息预期，部分官员考虑50bp加息可能。",
+      "assets": [{"name": "美股", "dir": "利空"}, {"name": "美债", "dir": "利空"}, {"name": "美元", "dir": "利多"}, {"name": "黄金", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
