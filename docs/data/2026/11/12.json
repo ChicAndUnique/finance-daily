@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12 09:30",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美联储|考虑加息50bp|-",
+      "title": "美联储官员在10月CPI超预期后表示12月可考虑加息50个基点",
+      "time": "2026-11-11 08:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/feds-waller-plans-support-least-quarter-point-rate-hike-december-2026-11-10/",
+      "facts": "美联储理事Waller表示，若核心CPI环比达0.3%或更高，12月应考虑加息50个基点。达拉斯联储主席Logan称至少还需两次25bp加息，冬季节奏可能加快。10月核心CPI环比为0.3%。",
+      "why": "此前市场主要定价12月加息25bp，官员表态将50bp纳入考虑，强化了更激进紧缩预期。",
+      "assets": [{"name": "美债", "dir": "利空"}, {"name": "美元", "dir": "利多"}, {"name": "美股", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|发布货政报告|-",
+      "title": "央行发布三季度货币政策执行报告，重申适度宽松并推进贷款定价多元化",
+      "time": "2026-11-11 18:25",
+      "source": "中国人民银行",
+      "url": "https://news.bjd.com.cn/2026/11/11/12026914.shtml",
+      "facts": "报告指出继续实施适度宽松的货币政策。推动贷款利率定价基准从单一参考LPR向更加多元的定价基准转型。加力实施支持资本市场的两项货币政策工具。",
+      "why": "在政策利率已切换至隔夜后，报告进一步明确利率市场化方向，维持宽松基调。",
+      "assets": [{"name": "A股", "dir": "利多"}, {"name": "人民币债券", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "美国|延长301关税排除|178项",
+      "title": "美国将178项对华301关税产品排除延长至2027年1月9日",
+      "time": "2026-11-10 08:00",
+      "source": "USTR",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22925/notice-of-product-exclusion-extensions-chinas-acts-policies-and-practices-related-to-technology",
+      "facts": "USTR公告将178项现有产品排除进一步延长至2027年1月9日东部时间23:59。该延长自2026年11月10日起生效。",
+      "why": "原排除将于11月9日到期，延长为中美贸易谈判提供缓冲，降低部分商品关税不确定性。",
+      "assets": [{"name": "相关出口企业股票", "dir": "利多"}, {"name": "中美贸易相关资产", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
