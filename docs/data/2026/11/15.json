@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15 09:07",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "cn",
+      "key": "央行|开展隔夜+7天逆回购|6640亿元",
+      "title": "央行开展3640亿元隔夜逆回购和3000亿元7天期逆回购",
+      "time": "2026-11-13 10:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/en/3688110/3688181/2026111314122199091/index.html",
+      "facts": "11月13日央行以固定利率1.25%开展3640亿元隔夜逆回购，全额满足一级交易商需求。同时以固定数量、利率招标、多重价位中标方式开展3000亿元7天期逆回购。这是政策利率换锚后首次搭配操作。",
+      "why": "此前市场关注税期流动性消耗，此举旨在稳定资金利率，避免DR001过快上行。",
+      "assets": [{"name": "中国银行间流动性", "dir": "利多"}, {"name": "短端债券", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美国|财政部长警告勿因能源冲击加息|-",
+      "title": "美国财政部长称美联储不应因能源供给冲击加息",
+      "time": "2026-11-13 21:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-iran-war-2026-11-13/",
+      "facts": "财政部长贝森特在CNBC表示，当前是能源供给冲击，底层经济强劲，美联储不应过度加息。芝加哥联储古尔斯比反驳称通胀压力超出能源因素。",
+      "why": "此前市场定价12月加息概率较高，此表态可能缓和加息预期。",
+      "assets": [{"name": "美债", "dir": "利多"}, {"name": "美元", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "ECB|官员称很可能需再加息|-",
+      "title": "德国央行行长称若情况持续欧洲央行很可能需再次行动",
+      "time": "2026-11-13 16:30",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/nagel-says-highly-probable-that-ecb-will-have-to-act-again",
+      "facts": "德国央行行长纳格尔表示，若情况保持现状，欧洲央行很可能需要再次提高利率。核心通胀仍高，短期通胀预期上升，二轮效应风险增加。",
+      "why": "此前市场已定价12月加息，此表态加强了加息并可能进入限制性区间的预期。",
+      "assets": [{"name": "欧元", "dir": "利多"}, {"name": "欧债", "dir": "利空"}],
+      "confidence": "付费墙",
+      "progress": null
+    }
+  ]
+}
