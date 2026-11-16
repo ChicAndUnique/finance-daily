@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16 09:09",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "伊朗|袭击巴林美军基地|-",
+      "title": "伊朗革命卫队对巴林美军基地发动无人机袭击",
+      "time": "2026-11-15 14:00",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know",
+      "facts": "伊朗伊斯兰革命卫队称向巴林里法空军基地发射6架无人机，回应美方行动。巴林称其防空系统拦截了部分袭击。这是近期对海湾国家的首次直接打击。",
+      "why": "增加中东地缘风险，对原油供应担忧提供支撑。",
+      "assets": [{"name": "布伦特原油", "dir": "利多"}, {"name": "地缘风险资产", "dir": "利空"}],
+      "confidence": "通讯社报道",
+      "progress": null
+    }
+  ]
+}
