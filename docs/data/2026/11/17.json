@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17 09:08",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "BOJ|呼吁尽快加息|-",
+      "title": "日本央行委员高田创呼吁尽早将政策利率上调至中性区间中位数附近",
+      "time": "2026-11-16 12:29",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/currencies/bojs-takata-calls-swift-hike-rates-good-position-2026-11-16/",
+      "facts": "高田创在演讲中表示，日本央行需要尽早将政策利率提升至中性利率估计区间的中位数附近，以应对通胀上行风险。他强调需灵活加息，并关注国内金融状况和海外发展。该表态维持了12月可能加息的可能性。",
+      "why": "此前市场对加息时机存在分歧，此表态强化了近期加息的政策信号。",
+      "assets": [{"name": "日元", "dir": "利多"}, {"name": "日本国债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "美国|限制AI芯片远程访问|-",
+      "title": "美国商务部发布规则限制中国企业通过第三国数据中心远程获取先进AI芯片",
+      "time": "2026-11-16 23:36",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/11/16/trump-officials-issue-rule-restrict-sales-ai-chips-china/",
+      "facts": "美国商务部发布临时最终规则，要求对向印度尼西亚、马来西亚、新加坡、泰国和巴西等国家出口先进AI芯片申请许可证，并限制向中国等受限国家企业提供远程算力。规则旨在关闭通过第三国数据中心绕过出口管制的漏洞。规则将在90天后生效。",
+      "why": "此前存在远程访问算力的监管缺口，新规则收紧了对中国获取先进AI算力的限制。",
+      "assets": [{"name": "英伟达股票", "dir": "利空"}, {"name": "半导体板块", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "黄金|跌至一年低点|$3830",
+      "title": "黄金价格跌至约3830美元盎司的一年低点",
+      "time": "2026-11-16 14:00",
+      "source": "The Nation",
+      "url": "https://www.nationthailand.com/business/trading-investment/40073583",
+      "facts": "黄金价格在11月16日跌至3830.74美元/盎司，为一年多来最低水平。下跌主要受美国国债收益率上升、美元走强以及市场对美联储12月加息预期升温影响。",
+      "why": "此前黄金受益于地缘风险和央行购金，此次因鹰派美联储预期而大幅回落，打破了近期相对稳定的价格区间。",
+      "assets": [{"name": "黄金", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    }
+  ]
+}
