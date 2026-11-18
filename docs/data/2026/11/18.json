@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18 09:20",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美联储|提示需数次加息|-",
+      "title": "圣路易斯联储主席Musalem表示2027年春季前可能需要数次加息以控制通胀",
+      "time": "2026-11-17 20:32",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/feds-musalem-us-likely-needs-several-rate-hikes-by-spring-control-inflation-2026-11-17/",
+      "facts": "Musalem在巴西讲话中称，经济可能需要在2027年春季前进行数次利率上调以实现价格稳定。当前3.75%-4%的政策利率低于需求水平约1个百分点。通胀风险偏向亊行。",
+      "why": "此表态给出更明确的多次加息数量指引，强化市场对12月及之后加息的预期。",
+      "assets": [{"name": "美国国债", "dir": "利空"}, {"name": "美元", "dir": "利多"}, {"name": "黄金", "dir": "利空"}, {"name": "美股", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|6个月买断式逆回购净回笼|1000亿元",
+      "title": "央行开展2000亿元6个月期买断式逆回购，实现净回笼1000亿元",
+      "time": "2026-11-16 15:00",
+      "source": "中国人民银行",
+      "url": "https://www.21jingji.com/article/20261116/herald/bcdd05d856a293654c1df738c0deb4db.html",
+      "facts": "11月16日开展2000亿元6个月买断式逆回购，对冲到期的3000亿元，净回笼1000亿元。11月买断式逆回购合计净回笼3000亿元。",
+      "why": "连续中期流动性净回笼，遏制资金利率下行势头，淡化市场对进一步宽松的预期。",
+      "assets": [{"name": "中国国债", "dir": "利空"}, {"name": "A股", "dir": "利空"}, {"name": "人民币", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
