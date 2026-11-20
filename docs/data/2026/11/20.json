@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20 09:10",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "policy",
+      "key": "美国|同意增加油品供应|-",
+      "title": "中美俄领导人同意增加精炼石油产品生产和供应",
+      "time": "2026-11-19 16:00",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+      "facts": "中美俄三国领导人在深圳会晤后发表声明，计划增加精炼石油产品的生产和供应，以惠及所有国家。声明重申稳定能源流动的重要性，但未提供具体实施细节。美方尚未发布官方声明。",
+      "why": "此前市场因忧地缘冲突和制裁导致能源供应紧张，该协议可能缓解油价上行压力。",
+      "assets": [{"name": "原油", "dir": "利空"}, {"name": "美债", "dir": "利多"}],
+      "confidence": "未经官方证实",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|开展隔夜逆回购|7675亿元",
+      "title": "央行开展7675亿元隔夜逆回购操作，净投放673亿元",
+      "time": "2026-11-19 09:30",
+      "source": "新华财经",
+      "url": "https://www.21jingji.com/article/20261119/herald/cfde4992545ca413f2edb1013d2a9cdf.html",
+      "facts": "11月19日中国人民银行以固定利率、数量招标方式开展7675亿元隔夜逆回购操作，利率1.25%，全额满足一级交易商需求。当日到期7002亿元，实现净投放673亿元。",
+      "why": "在政策利率换锚后，较大规模操作有助于维稳资金面，避免利率大幅波动。",
+      "assets": [{"name": "国债", "dir": "利多"}, {"name": "A股", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "BOJ|继续加息|-",
+      "title": "日本央行行长植田和男表示将继续加息",
+      "time": "2026-11-19 13:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/us/boj-governor-ueda-says-financial-conditions-loose-despite-rate-hikes-2026-11-19/",
+      "facts": "植田和男在议会表示，金融条件仍觉松，将继续加息以调整觉松程度。第三季度消费数据疲软在预期内，预计消费将恢复上升趋势。",
+      "why": "进一步强化市场对近12月加息的预期，此前多数分析师已预计近期加息。",
+      "assets": [{"name": "日元", "dir": "利多"}, {"name": "日债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "黄金|跌破|3700美元",
+      "title": "现货黄金跌破3700美元，创一年多新低",
+      "time": "2026-11-19 15:00",
+      "source": "每日经济新闻",
+      "url": "https://www.163.com/dy/article/LC5N0DT40512B07B.html",
+      "facts": "11月19日现货黄金日内跌破3700美元/盎司关口，为去年9月以来新低，跌幅1.1%。市场将此归因于强美元和美联储加息预期升温。",
+      "why": "突破关键心理价位，加剧市场对高利率环境持久的定价。",
+      "assets": [{"name": "黄金", "dir": "利空"}, {"name": "美元指数", "dir": "利多"}],
+      "confidence": "通讯社独家",
+      "progress": "进展 · 承接 2026-11-17（原值 $3830 → 现值 $3725）"
+    }
+  ]
+}
