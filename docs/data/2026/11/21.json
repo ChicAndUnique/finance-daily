@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21 09:06",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|股市大跌|Nasdaq-5.28%",
+      "title": "美股科技股大跌纳指收跌5.28%标普跌3.70%",
+      "time": "2026-11-20 16:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/global-markets-selloff-2026-11-20/",
+      "facts": "11月20日美股大跌，纳斯达克指数收跌5.28%，标普500跌3.70%。十年期美债收益率跌至4.95%附近。黄金跌至约3530美元。",
+      "why": "AI交易退潮、Anthropic上市后未能提振信心、美联储加息预期升温。",
+      "assets": [{"name": "纳斯达克指数", "dir": "利空"}, {"name": "黄金", "dir": "利空"}, {"name": "十年期美债", "dir": "利多"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美联储|主张再加息|-",
+      "title": "美联储理事Cook称当前利率不足以应对高通胀需进一步加息",
+      "time": "2026-11-20 12:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/feds-cook-says-rate-hikes-needed-lower-high-inflation-2026-11-20/",
+      "facts": "美联储理事Lisa Cook在智利演讲中称当前政策利率不足以应对高通胀。她认为需要进一步加息，否则可能落后于曲线。",
+      "why": "强化了市场对美联储12月及以后加息的预期。",
+      "assets": [{"name": "美元指数", "dir": "利多"}, {"name": "美股", "dir": "利空"}, {"name": "黄金", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "BOJ|加息路径分歧|-",
+      "title": "日本央行官员对最终利率水平存在分歧",
+      "time": "2026-11-20 08:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/bojs-ambiguity-rate-hike-path-could-tempt-yen-bears-2026-11-20/",
+      "facts": "日本央行政策委员多数认同需要12月加息，但对最终利率在1.1%-2.5%区间内的位置存在分歧。行长植田表示金融条件仍宽松。",
+      "why": "模糊了加息路径清晰度，可能引发新一轮日元卖压。",
+      "assets": [{"name": "日元", "dir": "利空"}, {"name": "日股", "dir": "中性"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "发改委|印发海洋投融资目录|-",
+      "title": "发改委等五部门印发海洋产业投融资指导目录2026版",
+      "time": "2026-11-20 14:00",
+      "source": "新华财经",
+      "url": "https://www.cnfin.com/hg-lb/detail/20261120/4498064_1.html",
+      "facts": "目录共11大类42小类185条，支持海洋产业智能化、绿色化、融合化发展，包括AI技术应用、海上风电等。",
+      "why": "引导社会资本投向海洋新质生产力相关领域。",
+      "assets": [{"name": "海洋相关股票", "dir": "利多"}, {"name": "新能源股票", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "黄金|价格下跌|$3530",
+      "title": "黄金价格跌至约3530美元创一年多低点",
+      "time": "2026-11-20 12:00",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/gold-set-worst-week-eight-months-firm-dollar-fed-hike-bets-weigh-2026-11-20/",
+      "facts": "现货黄金价格跌至约3530美元，触及自2025年9月以来低点。本周跌幅约9%，为八个月来最大。",
+      "why": "鹰派美联储预期和AI股票卖压导致资金流出。",
+      "assets": [{"name": "黄金", "dir": "利空"}],
+      "confidence": "通讯社独家",
+      "progress": "进展 · 承接 2026-11-20（原值 3700美元 → 现值 3530美元）"
+    }
+  ]
+}
