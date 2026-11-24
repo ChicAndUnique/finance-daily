@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24 09:15",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|警告过度紧缩|-",
+      "title": "美国财长贝森特警告美联储过度紧缩可能损害经济",
+      "time": "2026-11-22 12:00",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/bessent-warns-fed-risks-overtightening-as-us-markets-swoon",
+      "facts": "美国财长Scott Bessent在11月22日CBS《Face the Nation》采访中表示，许多人认为美联储若过度紧缩将犯下政策错误。他指出近期美联储官员鹰派表态以及金融条件已大幅收紧。市场对美联储12月加息25个基点的定价约为93%，50个基点加息已被定价出。",
+      "why": "打破市场对美联储将继续激进加息的单边预期，降低大幅加息概率。",
+      "assets": [{"name": "美股", "dir": "利多"}, {"name": "美债", "dir": "利多"}, {"name": "黄金", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美国|公布11月PMI|54.6",
+      "title": "美国11月综合PMI初值降至54.6，服务业放缓",
+      "time": "2026-11-23 22:50",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/us-business-activity-growth-eases-further-november-survey-shows-2026-11-23/",
+      "facts": "S&P Global公布美国11月闪电综合PMI产出指数为54.6，较上月终值55.9下降，为四个月最低。服务业PMI降至54.7，制造业PMI为54.5。投入成本压力缓和但仍处于高位，调查仍指向四季度GDP年化增速约3%。",
+      "why": "活动增速轻微放缓但仍处扩张区间，未显著改变美联储加息路径，价格压力仍高于目标。",
+      "assets": [{"name": "美股", "dir": "中性"}, {"name": "美元", "dir": "中性"}, {"name": "美债", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|开展隔夜逆回购|4995亿元",
+      "title": "央行11月23日开展4995亿元隔夜逆回购，净投放1200亿元",
+      "time": "2026-11-23 09:56",
+      "source": "上海证券报",
+      "url": "https://finance.eastmoney.com/a/202611233937084949.html",
+      "facts": "人民银行11月23日以固定利率1.25%、数量招标方式开展4995亿元隔夜逆回购操作，全额满足一级交易商需求。当日有3795亿元到期，实现净投放1200亿元。本周还有1万亿元MLF到期。",
+      "why": "维持短期流动性平稳，未改变政策利率水平，为跨月提供常规对冲。",
+      "assets": [{"name": "人民币", "dir": "中性"}, {"name": "国债", "dir": "中性"}, {"name": "A股", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "黄金|价格反弹|2.7%",
+      "title": "黄金从14个月低点反弹约2.7%，美联储12月加息概率降至93.5%",
+      "time": "2026-11-23 12:49",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/gold-rises-14-month-low-markets-await-key-us-inflation-data-2026-11-23/",
+      "facts": "现货黄金从上周低点反弹，日内涨幅约2.7%至3600美元附近。CME FedWatch显示市场对美联储12月加息25个基点的定价降至93.5%，50个基点已被定价出。美国10年期国债收益率回落至5%以下。",
+      "why": "加息概率下调降低黄金持有机会成本，股市大跌后避险需求回升。",
+      "assets": [{"name": "黄金", "dir": "利多"}, {"name": "美元", "dir": "利空"}, {"name": "美债", "dir": "利多"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    }
+  ]
+}
