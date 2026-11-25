@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25 09:07",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "policy",
+      "key": "商务部|延长矿产出口暂停|至2027/01/27",
+      "title": "商务部将镑铓镀等对美出口管制暂停延长至2027年1月27日",
+      "time": "2026-11-24 22:41",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/china-extends-suspension-ban-us-bound-gallium-germanium-antimony-exports-2026-11-24/",
+      "facts": "中国商务部宣布，将原定11月27日到期的对美镑、铓、镀及超硬材料双用途物项出口禁令暂停延长至2027年1月27日。同时继续放宽对美石墨出口的更严格审查。该措施为维持中美贸易休战的一部分。",
+      "why": "延续关键矿产供应稳定，避免对半导体和先进制造供应链的即时冲击，符合双方延长休战预期。",
+      "assets": [{"name": "半导体材料", "dir": "利多"}, {"name": "稀土及关键矿产", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "scoop",
+      "key": "美国|准备加征301关税|-",
+      "title": "美国准备根据301调查对中欧等经济体加征关税",
+      "time": "2026-11-24 18:16",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/trump-administration-set-unveil-new-tariffs-after-probe-on-excess-factory-2026-11-24/",
+      "facts": "消息人士称，美国贸易代表办公室即将完成对16个主要贸易伙伴产能过剩的301调查，并准备尽快宣布新关税，以替代最高法院推翻的关税。税率将按国家定制，并尊重现有贸易协议上限。",
+      "why": "可能提高对华有效关税，挑战中美1月10日休战上限，影响贸易流和资产定价预期。未经官方证实。",
+      "assets": [{"name": "中概股", "dir": "利空"}, {"name": "美元", "dir": "利多"}],
+      "confidence": "通讯社独家",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "ECB|暗示12月加息|-",
+      "title": "欧洲央行官员称12月加息方向明确",
+      "time": "2026-11-24 18:08",
+      "source": "Reuters",
+      "url": "https://live.euronext.com/en/financial-news/ecb-policy-direction-clear-december-uncertain-after-sleijpen-says",
+      "facts": "欧洲央行理事会成员、荷兰央行行长Sleijpen表示，12月加息方向明确，但之后路径不清。他指出欧元区通胀过高，多位官员认为需要收紧。",
+      "why": "强化市场对12月加息的定价，可能推高欧元利率预期。",
+      "assets": [{"name": "欧元", "dir": "利多"}, {"name": "欧洲债市", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|开展MLF|8000亿元",
+      "title": "央行宣布11月25日开展8000亿元MLF操作及5000亿元7天期逆回购",
+      "time": "2026-11-24 17:03",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-11-24/4657771.html",
+      "facts": "央行公告，11月25日将开展8000亿元1年期MLF操作，以及5000亿元7天期逆回购。当日有10000亿元MLF到期，形成净回笼2000亿元。",
+      "why": "中期流动性继续缩量，短端补位，维持中性偏紧的流动性框架，符合市场预期。",
+      "assets": [{"name": "中国债市", "dir": "中性"}, {"name": "人民币", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
