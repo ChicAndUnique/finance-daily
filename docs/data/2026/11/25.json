@@ -10,7 +10,7 @@
       "time": "2026-11-24 22:41",
       "source": "Reuters",
       "url": "https://www.reuters.com/markets/commodities/china-extends-suspension-ban-us-bound-gallium-germanium-antimony-exports-2026-11-24/",
-      "facts": "中国商务部宣布，将原定11月27日到期的对美镑铓镀及超硬材料双用途物项出口禁令暂停延长至2027年1月27日。同时继续放宽对美石墨出口的更严格审查。该措施为维持中美贸易休战的一部分。",
+      "facts": "中国商务部宣布，将原定11月27日到期的对美关键矿产（gallium、germanium、antimony）及超硬材料双用途物项出口禁令暂停延长至2027年1月27日。同时继续放宽对美石墨出口的更严格审查。该措施为维持中美贸易休战的一部分。",
       "why": "延续关键矿产供应稳定，避免对半导体和先进制造供应链的即时冲击，符合双方延长休战预期。",
       "assets": [{"name": "半导体材料", "dir": "利多"}, {"name": "稀土及关键矿产", "dir": "利多"}],
       "confidence": "官方确认",
