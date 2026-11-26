@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26 09:06",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "policy",
+      "key": "美国|提议加征关税|20%",
+      "title": "美国提议对包括中国在内的14个贸易伙伴加征最高20%关税以应对过剩产能",
+      "time": "2026-11-25 21:15",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+      "facts": "美国贸易代表办公室提议对中国、欧盟等国家加征关税，中国最高封顶税率20%，若贸易停火失效可升20%。关税将在公众听证后生效。",
+      "why": "打破此前中美贸易停火将持续的预期，增加出口不确定性。",
+      "assets": [{"name": "中国出口相关股票", "dir": "利空"}, {"name": "美股", "dir": "利空"}, {"name": "人民币", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "美国|公布10月核心PCE|3.3%",
+      "title": "美国10月核心PCE同比上涨至3.3%高于预期3.2%",
+      "time": "2026-11-25 21:30",
+      "source": "美国经济分析局",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+      "facts": "10月PCE价格指数环比0.3%，核心环比0.3%。同比核心PCE为3.3%，高于市场预期的3.2%。",
+      "why": "进一步强化市场对美联储12月加息的预期。",
+      "assets": [{"name": "美国10年期国债", "dir": "利空"}, {"name": "美元", "dir": "利多"}, {"name": "美股", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "央行|开展隔夜逆回购|6170亿元",
+      "title": "央行开展6170亿元隔夜逆回购操作利率维持1.25%",
+      "time": "2026-11-25 14:41",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/en/3688110/3688181/2026112514413881344/index.html",
+      "facts": "央行通过数量招标开展6170亿元隔夜逆回购，利率固定为1.25%。全额满足一级交易商需求。",
+      "why": "继续维持短期流动性充裕，未释放政策转向信号。",
+      "assets": [{"name": "人民币资金面", "dir": "中性"}, {"name": "A股", "dir": "中性"}],
+      "confidence": "官方确认",
+      "progress": "进展 · 承接 2026-11-20（原值 7675亿元 → 现值 6170亿元）"
+    }
+  ]
+}
