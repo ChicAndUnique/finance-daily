@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27 09:10",
+  "revision": 1,
+  "items": [
+    {
+      "cat": "global",
+      "key": "美国|上修三季度GDP|4.3%",
+      "title": "美国商务部将三季度实际GDP年化增速上修至4.3%",
+      "time": "2026-11-25 21:30",
+      "source": "美国商务部经济分析局",
+      "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+      "facts": "美国商务部经济分析局发布三季度GDP第二次估算，实际GDP年化增速由初值3.4%上修至4.3%。上修主要来自投资和消费支出。市场预期约3.5%。",
+      "why": "显示美国经济韧性强于预期，进一步支撑美联储12月加息预期。",
+      "assets": [{"name": "美债", "dir": "利空"}, {"name": "美元", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "ECB|纪要支持加息|-",
+      "title": "ECB发布10月会议纪要显示多数委员可支持加息",
+      "time": "2026-11-26 20:44",
+      "source": "欧洲央行",
+      "url": "https://www.reuters.com/markets/europe/ecb-already-had-large-support-rate-hike-oct-accounts-show-2026-11-26/",
+      "facts": "ECB 10月28-29日会议纪要显示，大量委员认为数据支持进一步紧缩，可支持本次加息。最终维持利率不变以收集更多证据。市场预期12月加息25bp。",
+      "why": "确认ECB年内再加息路径明确，打破部分市场对暂停的预期。",
+      "assets": [{"name": "欧元", "dir": "利多"}, {"name": "欧债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "BOJ|暗示加快加息|-",
+      "title": "BOJ委员田村直树称需尽快将利率提至中性并可加快加息",
+      "time": "2026-11-26 09:15",
+      "source": "日本银行",
+      "url": "https://www.reuters.com/markets/us/bojs-tamura-signals-chance-faster-pace-interest-rate-hikes-2026-11-26/",
+      "facts": "BOJ政策委员田村直树表示需尽快将政策利率提至中性水平。基线为每数月加息25bp，若物价上行风险加大可能加快或加息50bp。",
+      "why": "强化12月加息预期，并提示可能更快节奏，超出此前温和路径预期。",
+      "assets": [{"name": "日元", "dir": "利多"}, {"name": "日债", "dir": "利空"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "global",
+      "key": "日本|东京核心CPI|2.9%",
+      "title": "东京11月核心CPI同比升2.9%创16个月新高",
+      "time": "2026-11-27 07:42",
+      "source": "日本总务省",
+      "url": "https://www.reuters.com/markets/asia/core-inflation-japans-capital-accelerates-november-2026-11-26/",
+      "facts": "东京核心CPI（除生鲜食品）11月同比上升2.9%，高于前值2.6%，略低于预期3.0%。为16个月最快，连续3个月超2%。",
+      "why": "支撑BOJ12月加息，显示物价压力持续。",
+      "assets": [{"name": "日元", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "cn",
+      "key": "发改委|下调成品油价|440元/吨",
+      "title": "发改委宣布自11月26日24时起汽柴油价格分别下调440元和425元/吨",
+      "time": "2026-11-26 14:57",
+      "source": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202611/t20261126_1409082_ext.html",
+      "facts": "国家发改委根据国际油价变化，自2026年11月26日24时起国内汽、柴油（标准品）价格每吨分别下调440元、425元。",
+      "why": "反映近期国际油价回落，降低国内燃料成本。",
+      "assets": [{"name": "国内燃油", "dir": "利多"}, {"name": "相关行业", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    },
+    {
+      "cat": "policy",
+      "key": "商务部|印发服贸规划|-",
+      "title": "商务部等八部门印发服务贸易发展“十五五”规划",
+      "time": "2026-11-26 18:09",
+      "source": "商务部",
+      "url": "https://www.gov.cn/zhengce/202611/content_7087401.htm",
+      "facts": "商务部等8部门联合印发《服务贸易发展“十五五”规划》，部署7方面25项重点任务，首次明确生产性和生活性服务方向。",
+      "why": "为服务贸易提供政策框架，可能影响相关跨境资本和服务出口预期。",
+      "assets": [{"name": "相关服务股", "dir": "利多"}],
+      "confidence": "官方确认",
+      "progress": null
+    }
+  ]
+}
